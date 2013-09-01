@@ -1,0 +1,57 @@
+package code;
+
+import java.util.LinkedHashMap;
+import java.util.Map;
+
+public class LRU {
+
+	private static final int MAX_ENTRIES = 3;
+	Map<Integer, Integer> m = new LinkedHashMap<Integer, Integer>(MAX_ENTRIES) {
+
+		/**
+		 * 
+		 */
+		private static final long serialVersionUID = 1L;
+
+		// Override this , if it returns true the eldest entry in the map is
+		// removed
+		@Override
+		protected boolean removeEldestEntry(Map.Entry eldest) {
+			return m.size() > MAX_ENTRIES;
+		}
+	};
+
+	// model function
+	int getValue(int x) {
+		// some complex calculations
+		return ++x;
+	}
+
+	// to get value from cache
+	int getCacheValue(int x) {
+		return m.get(x);
+	}
+
+	int get(int x) {
+		int result = 0;
+		if (m.containsKey(x)) {
+			result = getCacheValue(x);
+
+		} else {
+			result = getValue(x);
+		}
+		m.put(x, result);
+		return result;
+	}
+
+	public static void main(String[] args) {
+		LRU obj = new LRU();
+		for (int i = 1; i <= 5; i++) {
+			obj.get(i);
+			obj.get(2);
+			System.out.println(obj.m);
+		}
+		obj.get(7);
+		System.out.println(obj.m);
+	}
+}

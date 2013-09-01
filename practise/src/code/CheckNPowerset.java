@@ -1,0 +1,32 @@
+package code;
+
+/**
+ * http://www.careercup.com/question?id=14473915 
+ * Number of binary numbers
+ * possible with size N - Condition 0 should be followed by 1
+ * @author Dhass
+ * 
+ */
+public class CheckNPowerset {
+
+	public static void main(String[] args) {
+		CheckNPowerset c = new CheckNPowerset();
+		System.out.println(c.f(4));
+	}
+
+	int f(int n) {
+		if (n <= 0) {
+			return 0;
+		}
+		int[] results = new int[2];
+		results[0] = 2; // for n = 2
+		results[1] = 1;
+
+		for (int i = 3; i <= n; i++) {
+			results[i % 2] = results[0] + results[1];
+		}
+
+		return results[n % 2];
+	}
+
+}

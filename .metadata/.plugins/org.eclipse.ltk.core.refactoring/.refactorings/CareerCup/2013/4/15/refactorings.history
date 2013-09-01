@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename method &apos;code.UnionOfSortedArrays.UnionOfSortedArrays(...)&apos; to &apos;unionOfSortedArrays&apos;&#x0D;&#x0A;- Original project: &apos;CareerCup&apos;&#x0D;&#x0A;- Original element: &apos;code.UnionOfSortedArrays.UnionOfSortedArrays(...)&apos;&#x0D;&#x0A;- Renamed element: &apos;code.UnionOfSortedArrays.unionOfSortedArrays(...)&apos;&#x0D;&#x0A;- Update references to refactored element" delegate="false" deprecate="false" description="Rename method &apos;UnionOfSortedArrays&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.method" input="/src&lt;code{UnionOfSortedArrays.java[UnionOfSortedArrays~UnionOfSortedArrays~\[I~\[I" name="unionOfSortedArrays" references="true" stamp="1365841109471" version="1.0"/>
+</session>

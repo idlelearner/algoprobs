@@ -1,0 +1,13 @@
+package code.stack;
+
+public class FindingSpans {
+
+	public static void main(String[] args) {
+		
+	}
+	
+	int[] findingSpans(int[] inputArray){
+		
+		return null;
+	}
+}

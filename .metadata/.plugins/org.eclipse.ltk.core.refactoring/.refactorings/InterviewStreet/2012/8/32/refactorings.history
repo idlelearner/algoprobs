@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;circularbuffer&apos; in &apos;code.evernote.CircularBuffer.main(...)&apos; to &apos;circularBuffer&apos;&#x0D;&#x0A;- Original project: &apos;InterviewStreet&apos;&#x0D;&#x0A;- Original element: &apos;code.evernote.CircularBuffer.main(String[]).circularbuffer&apos;&#x0D;&#x0A;- Renamed element: &apos;circularbuffer&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;circularbuffer&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;code.evernote{CircularBuffer.java[CircularBuffer~main~\[QString;@circularbuffer!438!477!445!458!\[QString;!0!false" name="circularBuffer" references="true" stamp="1344708350243" version="1.0"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;totTow&apos; in &apos;code.fourfifty.EnemyTowers.check(...)&apos; to &apos;tot&apos;&#x0D;&#x0A;- Original project: &apos;Topcoder&apos;&#x0D;&#x0A;- Original element: &apos;code.fourfifty.EnemyTowers.check(int, int).totTow&apos;&#x0D;&#x0A;- Renamed element: &apos;totTow&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;totTow&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;code.fourfifty{EnemyTowers.java[EnemyTowers~check~I~I@totTow!447!470!451!456!I!0!false" name="tot" references="true" stamp="1367637686579" version="1.0"/>
+</session>

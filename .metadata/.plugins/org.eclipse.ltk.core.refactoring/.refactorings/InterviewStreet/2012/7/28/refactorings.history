@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;medPos&apos; in &apos;code.Median.findNthElmt(...)&apos; to &apos;nPos&apos;&#x0D;&#x0A;- Original project: &apos;InterviewStreet&apos;&#x0D;&#x0A;- Original element: &apos;code.Median.findNthElmt(int[], int, int, int).medPos&apos;&#x0D;&#x0A;- Renamed element: &apos;medPos&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;medPos&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;code{Median.java[Median~findNthElmt~\[I~I~I~I@medPos!1368!1377!1372!1377!I!0!true" name="nPos" references="true" stamp="1342283312748" version="1.0"/>
+</session>

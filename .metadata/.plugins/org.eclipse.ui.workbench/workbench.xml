@@ -1,0 +1,1916 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench progressCount="40" version="2.0">
+<workbenchAdvisor/>
+<window height="838" maximized="true" width="872" x="743" y="11">
+<fastViewData fastViewLocation="1024"/>
+<perspectiveBar>
+<itemSize x="160"/>
+</perspectiveBar>
+<coolbarLayout>
+<coolItem id="group.file" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="122" y="22"/>
+<coolItem id="additions" itemType="typeGroupMarker"/>
+<coolItem id="adt.actionSet.avdManager" itemType="typeToolBarContribution" x="61" y="22"/>
+<coolItem id="adt.actionSet.lint" itemType="typeToolBarContribution" x="53" y="22"/>
+<coolItem id="adt.actionSet.wizards" itemType="typeToolBarContribution" x="84" y="22"/>
+<coolItem id="com.python.pydev.debug.actionSet" itemType="typeToolBarContribution" x="61" y="22"/>
+<coolItem id="com.python.pydev.navigate.actionSet" itemType="typeToolBarContribution" x="38" y="22"/>
+<coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="167" y="22"/>
+<coolItem id="org.eclipse.jdt.ui.JavaElementCreationActionSet" itemType="typeToolBarContribution" x="76" y="22"/>
+<coolItem id="org.eclipse.jst.j2ee.J2eeMainActionSet" itemType="typeToolBarContribution" x="91" y="22"/>
+<coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="99" y="22"/>
+<coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="130" y="22"/>
+<coolItem id="org.eclipse.wst.server.ui.internal.webbrowser.actionSet" itemType="typeToolBarContribution" x="38" y="22"/>
+<coolItem id="org.eclipse.wst.ws.explorer.explorer" itemType="typeToolBarContribution" x="38" y="22"/>
+<coolItem id="org.eclipse.wst.xml.ui.perspective.NewFileToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.wst.xml.ui.design.DesignToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="group.nav" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="190" y="22"/>
+<coolItem id="group.editor" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.jdt.ui.ClassFileEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.ui.browser.editor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.jdt.ui.CompilationUnitEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="group.help" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
+</coolbarLayout>
+<page aggregateWorkingSetId="Aggregate for window 1336839682394" focus="true" label="Workspace - Java">
+<editors>
+<editorArea activeWorkbook="DefaultEditorWorkbook">
+<info part="DefaultEditorWorkbook">
+<folder appearance="1" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+<part id="5"/>
+<part id="6"/>
+<part id="7"/>
+<part id="8"/>
+<part id="9"/>
+<part id="10"/>
+<part id="11"/>
+<part id="12"/>
+<part id="13"/>
+<part id="14"/>
+<part id="15"/>
+<part id="16"/>
+<part id="17"/>
+<part id="18"/>
+<part id="19"/>
+<part id="20"/>
+<part id="21"/>
+<part id="22"/>
+<part id="23"/>
+<part id="24"/>
+<part id="25"/>
+<part id="26"/>
+<part id="27"/>
+<part id="28"/>
+<part id="29"/>
+<part id="30"/>
+<part id="31"/>
+<part id="32"/>
+<part id="33"/>
+<part id="34"/>
+<part id="35"/>
+<part id="36"/>
+<part id="37"/>
+<part id="38"/>
+<part id="39"/>
+<part id="40"/>
+<part id="41"/>
+<part id="42"/>
+<part id="43"/>
+<part id="44"/>
+<part id="45"/>
+<part id="46"/>
+<part id="47"/>
+<part id="48"/>
+<part id="49"/>
+<part id="50"/>
+<part id="51"/>
+<part id="52"/>
+<part id="53"/>
+<part id="54"/>
+<part id="55"/>
+<part id="56"/>
+<part id="57"/>
+<part id="58"/>
+<part id="59"/>
+<part id="60"/>
+<part id="61"/>
+<part id="62"/>
+<part id="63"/>
+<part id="64"/>
+<part id="65"/>
+<part id="66"/>
+<part id="67"/>
+<part id="68"/>
+<part id="69"/>
+<part id="70"/>
+<part id="71"/>
+<part id="72"/>
+<part id="73"/>
+<part id="74"/>
+<part id="75"/>
+<part id="76"/>
+<part id="77"/>
+<part id="78"/>
+<part id="79"/>
+<part id="80"/>
+<part id="81"/>
+<part id="82"/>
+<part id="83"/>
+<part id="84"/>
+<part id="85"/>
+<part id="86"/>
+<part id="87"/>
+<part id="88"/>
+<part id="89"/>
+<part id="90"/>
+<part id="91"/>
+<part id="92"/>
+<part id="93"/>
+<part id="94"/>
+<part id="95"/>
+<part id="96"/>
+<part id="97"/>
+<part id="98"/>
+<part id="99"/>
+<part id="100"/>
+<part id="101"/>
+<part id="102"/>
+<part id="103"/>
+<part id="104"/>
+<part id="105"/>
+<part id="106"/>
+<part id="107"/>
+<part id="108"/>
+<part id="109"/>
+<part id="110"/>
+<part id="111"/>
+<part id="112"/>
+<part id="113"/>
+<part id="114"/>
+<part id="115"/>
+<part id="116"/>
+<part id="117"/>
+<part id="118"/>
+<part id="119"/>
+<part id="120"/>
+<part id="121"/>
+<part id="122"/>
+<part id="123"/>
+<part id="124"/>
+<part id="125"/>
+<part id="126"/>
+<part id="127"/>
+<part id="128"/>
+<part id="129"/>
+<part id="130"/>
+<part id="131"/>
+<part id="132"/>
+<part id="133"/>
+<part id="134"/>
+<part id="135"/>
+<part id="136"/>
+<part id="137"/>
+<part id="138"/>
+<part id="139"/>
+<part id="140"/>
+<part id="141"/>
+<part id="142"/>
+<part id="143"/>
+<part id="144"/>
+<part id="145"/>
+<part id="146"/>
+<part id="147"/>
+<part id="148"/>
+<part id="149"/>
+<part id="150"/>
+<part id="151"/>
+<part id="152"/>
+<part id="153"/>
+<part id="154"/>
+<part id="155"/>
+<part id="156"/>
+<part id="157"/>
+<part id="158"/>
+<part id="159"/>
+<part id="160"/>
+<part id="161"/>
+<part id="162"/>
+<part id="163"/>
+<part id="164"/>
+<part id="165"/>
+<part id="166"/>
+<part id="167"/>
+<part id="168"/>
+<part id="169"/>
+<part id="170"/>
+<part id="171"/>
+<part id="172"/>
+<part id="173"/>
+<part id="174"/>
+<part id="175"/>
+<part id="176"/>
+<part id="177"/>
+<part id="178"/>
+<part id="179"/>
+<part id="180"/>
+<part id="181"/>
+<part id="182"/>
+<part id="183"/>
+<part id="184"/>
+<part id="185"/>
+<part id="186"/>
+<part id="187"/>
+<part id="188"/>
+<part id="189"/>
+<part id="190"/>
+<part id="191"/>
+<part id="192"/>
+<part id="193"/>
+<part id="194"/>
+<part id="195"/>
+<part id="196"/>
+<part id="197"/>
+<part id="198"/>
+<part id="199"/>
+<part id="200"/>
+<part id="201"/>
+<part id="202"/>
+<part id="203"/>
+<part id="204"/>
+<part id="205"/>
+<part id="206"/>
+<part id="207"/>
+<part id="208"/>
+<part id="209"/>
+<part id="210"/>
+<part id="211"/>
+<part id="212"/>
+<part id="213"/>
+<part id="214"/>
+<part id="215"/>
+<part id="216"/>
+<part id="217"/>
+<part id="218"/>
+<part id="219"/>
+<part id="220"/>
+<part id="221"/>
+<part id="222"/>
+<part id="223"/>
+<part id="224"/>
+<part id="225"/>
+<part id="226"/>
+<part id="227"/>
+<part id="228"/>
+<part id="229"/>
+<part id="230"/>
+<part id="231"/>
+</presentation>
+</folder>
+</info>
+</editorArea>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="forloop.java" partName="forloop.java" path="C:/Dass/Workspaces/Practise/practise/src/code/forloop.java" title="forloop.java" tooltip="practise/src/code/forloop.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/practise/src/code/forloop.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="250" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MergeSort.java" partName="MergeSort.java" path="C:/Dass/Workspaces/Practise/Cormen/src/Code/MergeSort.java" title="MergeSort.java" tooltip="Cormen/src/Code/MergeSort.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Cormen/src/Code/MergeSort.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="978" selectionTopPixel="378"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BinarySearch.java" partName="BinarySearch.java" path="C:/Dass/Workspaces/Practise/practise/src/code/BinarySearch.java" title="BinarySearch.java" tooltip="practise/src/code/BinarySearch.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/practise/src/code/BinarySearch.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="575" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="A.java" partName="A.java" path="C:/Dass/Workspaces/Practise/practise/src/code/A.java" title="A.java" tooltip="practise/src/code/A.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/practise/src/code/A.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="154" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TowersOfHanoi.java" partName="TowersOfHanoi.java" path="C:/Dass/Workspaces/Practise/DSPuzzles/src/code/recursion/TowersOfHanoi.java" title="TowersOfHanoi.java" tooltip="DSPuzzles/src/code/recursion/TowersOfHanoi.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DSPuzzles/src/code/recursion/TowersOfHanoi.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="666" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="NBitStrings.java" partName="NBitStrings.java" path="C:/Dass/Workspaces/Practise/DSPuzzles/src/code/recursion/NBitStrings.java" title="NBitStrings.java" tooltip="DSPuzzles/src/code/recursion/NBitStrings.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DSPuzzles/src/code/recursion/NBitStrings.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="498" selectionTopPixel="10"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Narystrings.java" partName="Narystrings.java" path="C:/Dass/Workspaces/Practise/DSPuzzles/src/code/recursion/Narystrings.java" title="Narystrings.java" tooltip="DSPuzzles/src/code/recursion/Narystrings.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DSPuzzles/src/code/recursion/Narystrings.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="483" selectionTopPixel="70"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="CentreOfMass.java" partName="CentreOfMass.java" path="C:/Dass/Workspaces/Practise/InterviewStreet/src/code/CentreOfMass.java" title="CentreOfMass.java" tooltip="InterviewStreet/src/code/CentreOfMass.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/InterviewStreet/src/code/CentreOfMass.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="747" selectionTopPixel="298"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="FindingSpans.java" partName="FindingSpans.java" path="C:/Dass/Workspaces/Practise/DSPuzzles/src/code/stack/FindingSpans.java" title="FindingSpans.java" tooltip="DSPuzzles/src/code/stack/FindingSpans.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DSPuzzles/src/code/stack/FindingSpans.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="925" selectionTopPixel="45"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MaxRectangleArea.java" partName="MaxRectangleArea.java" path="C:/Dass/Workspaces/Practise/DSPuzzles/src/code/stack/MaxRectangleArea.java" title="MaxRectangleArea.java" tooltip="DSPuzzles/src/code/stack/MaxRectangleArea.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DSPuzzles/src/code/stack/MaxRectangleArea.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="100" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Flowers.java" partName="Flowers.java" path="C:/Dass/Workspaces/Practise/InterviewStreet/src/code/Flowers.java" title="Flowers.java" tooltip="InterviewStreet/src/code/Flowers.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/InterviewStreet/src/code/Flowers.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="613" selectionTopPixel="115"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="QuickSort.java" partName="QuickSort.java" path="C:/Dass/Workspaces/Practise/DSPuzzles/src/code/sorting/QuickSort.java" title="QuickSort.java" tooltip="DSPuzzles/src/code/sorting/QuickSort.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DSPuzzles/src/code/sorting/QuickSort.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="269" selectionTopPixel="225"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="FindMedian.java" partName="FindMedian.java" path="C:/Dass/Workspaces/Practise/DSPuzzles/src/code/selectionalgo/FindMedian.java" title="FindMedian.java" tooltip="DSPuzzles/src/code/selectionalgo/FindMedian.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DSPuzzles/src/code/selectionalgo/FindMedian.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1004" selectionTopPixel="340"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Median.java" partName="Median.java" path="C:/Dass/Workspaces/Practise/InterviewStreet/src/code/Median.java" title="Median.java" tooltip="InterviewStreet/src/code/Median.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/InterviewStreet/src/code/Median.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1087" selectionTopPixel="838"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SetMedian.java" partName="SetMedian.java" path="C:/Dass/Workspaces/Practise/InterviewStreet/src/code/SetMedian.java" title="SetMedian.java" tooltip="InterviewStreet/src/code/SetMedian.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/InterviewStreet/src/code/SetMedian.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="955" selectionTopPixel="763"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Combinations.java" partName="Combinations.java" path="C:/Dass/Workspaces/Practise/DSPuzzles/src/code/string/Combinations.java" title="Combinations.java" tooltip="DSPuzzles/src/code/string/Combinations.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DSPuzzles/src/code/string/Combinations.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="312" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AdjacentPairs.java" partName="AdjacentPairs.java" path="C:/Dass/Workspaces/Practise/DSPuzzles/src/code/string/AdjacentPairs.java" title="AdjacentPairs.java" tooltip="DSPuzzles/src/code/string/AdjacentPairs.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DSPuzzles/src/code/string/AdjacentPairs.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="506" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Partition.java" partName="Partition.java" path="C:/Dass/Workspaces/Practise/DSPuzzles/src/code/dynamicprogramming/Partition.java" title="Partition.java" tooltip="DSPuzzles/src/code/dynamicprogramming/Partition.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DSPuzzles/src/code/dynamicprogramming/Partition.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1089" selectionTopPixel="238"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="EggDroppingPuzzle.java" partName="EggDroppingPuzzle.java" path="C:/Dass/Workspaces/Practise/DSPuzzles/src/code/dynamicprogramming/EggDroppingPuzzle.java" title="EggDroppingPuzzle.java" tooltip="DSPuzzles/src/code/dynamicprogramming/EggDroppingPuzzle.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DSPuzzles/src/code/dynamicprogramming/EggDroppingPuzzle.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="674" selectionTopPixel="148"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="LongestIncreasingSequence.java" partName="LongestIncreasingSequence.java" path="C:/Dass/Workspaces/Practise/DSPuzzles/src/code/dynamicprogramming/LongestIncreasingSequence.java" title="LongestIncreasingSequence.java" tooltip="DSPuzzles/src/code/dynamicprogramming/LongestIncreasingSequence.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DSPuzzles/src/code/dynamicprogramming/LongestIncreasingSequence.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1165" selectionTopPixel="345"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MatrixChainMultiplication.java" partName="MatrixChainMultiplication.java" path="C:/Dass/Workspaces/Practise/DSPuzzles/src/code/dynamicprogramming/MatrixChainMultiplication.java" title="MatrixChainMultiplication.java" tooltip="DSPuzzles/src/code/dynamicprogramming/MatrixChainMultiplication.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DSPuzzles/src/code/dynamicprogramming/MatrixChainMultiplication.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1215" selectionTopPixel="135"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="KnapSack.java" partName="KnapSack.java" path="C:/Dass/Workspaces/Practise/DSPuzzles/src/code/dynamicprogramming/KnapSack.java" title="KnapSack.java" tooltip="DSPuzzles/src/code/dynamicprogramming/KnapSack.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DSPuzzles/src/code/dynamicprogramming/KnapSack.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="400" selectionTopPixel="131"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Candies.java" partName="Candies.java" path="C:/Dass/Workspaces/Practise/InterviewStreet/src/code/Candies.java" title="Candies.java" tooltip="InterviewStreet/src/code/Candies.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/InterviewStreet/src/code/Candies.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="883" selectionTopPixel="176"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="KDifference.java" partName="KDifference.java" path="C:/Dass/Workspaces/Practise/InterviewStreet/src/code/KDifference.java" title="KDifference.java" tooltip="InterviewStreet/src/code/KDifference.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/InterviewStreet/src/code/KDifference.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="774" selectionTopPixel="88"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="PowerOfTwo.java" partName="PowerOfTwo.java" path="C:/Dass/Workspaces/Practise/DSPuzzles/src/code/bitmanipulation/PowerOfTwo.java" title="PowerOfTwo.java" tooltip="DSPuzzles/src/code/bitmanipulation/PowerOfTwo.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DSPuzzles/src/code/bitmanipulation/PowerOfTwo.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="116" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DijkstraAlgo.java" partName="DijkstraAlgo.java" path="C:/Dass/Workspaces/Practise/DSPuzzles/src/code/graphs/DijkstraAlgo.java" title="DijkstraAlgo.java" tooltip="DSPuzzles/src/code/graphs/DijkstraAlgo.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DSPuzzles/src/code/graphs/DijkstraAlgo.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="184" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DFSGraph.java" partName="DFSGraph.java" path="C:/Dass/Workspaces/Practise/DSPuzzles/src/code/graphs/DFSGraph.java" title="DFSGraph.java" tooltip="DSPuzzles/src/code/graphs/DFSGraph.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DSPuzzles/src/code/graphs/DFSGraph.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1391" selectionTopPixel="925"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="LongestBitonicSequence.java" partName="LongestBitonicSequence.java" path="C:/Dass/Workspaces/Practise/DSPuzzles/src/code/dynamicprogramming/LongestBitonicSequence.java" title="LongestBitonicSequence.java" tooltip="DSPuzzles/src/code/dynamicprogramming/LongestBitonicSequence.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DSPuzzles/src/code/dynamicprogramming/LongestBitonicSequence.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="540" selectionTopPixel="235"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Heapsort.java" partName="Heapsort.java" path="C:/Dass/Workspaces/Practise/DSPuzzles/src/code/sorting/Heapsort.java" title="Heapsort.java" tooltip="DSPuzzles/src/code/sorting/Heapsort.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DSPuzzles/src/code/sorting/Heapsort.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="787" selectionTopPixel="280"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="NQueenProblem.java" partName="NQueenProblem.java" path="C:/Dass/Workspaces/Practise/DSPuzzles/src/code/backtracking/NQueenProblem.java" title="NQueenProblem.java" tooltip="DSPuzzles/src/code/backtracking/NQueenProblem.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DSPuzzles/src/code/backtracking/NQueenProblem.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="790" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SubsetOfSumK.java" partName="SubsetOfSumK.java" path="C:/Dass/Workspaces/Practise/DSPuzzles/src/code/backtracking/SubsetOfSumK.java" title="SubsetOfSumK.java" tooltip="DSPuzzles/src/code/backtracking/SubsetOfSumK.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DSPuzzles/src/code/backtracking/SubsetOfSumK.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1251" selectionTopPixel="227"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MedianHeap.java" partName="MedianHeap.java" path="C:/Dass/Workspaces/Practise/InterviewStreet/src/code/MedianHeap.java" title="MedianHeap.java" tooltip="InterviewStreet/src/code/MedianHeap.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/InterviewStreet/src/code/MedianHeap.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="29" selectionOffset="587" selectionTopPixel="76"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MultiplyExceptSelf.java" partName="MultiplyExceptSelf.java" path="C:/Dass/Workspaces/Practise/InterviewStreet/src/code/evernote/MultiplyExceptSelf.java" title="MultiplyExceptSelf.java" tooltip="InterviewStreet/src/code/evernote/MultiplyExceptSelf.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/InterviewStreet/src/code/evernote/MultiplyExceptSelf.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="334" selectionTopPixel="28"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="FrequentTerms.java" partName="FrequentTerms.java" path="C:/Dass/Workspaces/Practise/InterviewStreet/src/code/evernote/FrequentTerms.java" title="FrequentTerms.java" tooltip="InterviewStreet/src/code/evernote/FrequentTerms.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/InterviewStreet/src/code/evernote/FrequentTerms.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1224" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TopFour.java" partName="TopFour.java" path="C:/Dass/Workspaces/Practise/InterviewStreet/src/code/evernote/TopFour.java" title="TopFour.java" tooltip="InterviewStreet/src/code/evernote/TopFour.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/InterviewStreet/src/code/evernote/TopFour.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1507" selectionTopPixel="550"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TopFourSet.java" partName="TopFourSet.java" path="C:/Dass/Workspaces/Practise/InterviewStreet/src/code/evernote/TopFourSet.java" title="TopFourSet.java" tooltip="InterviewStreet/src/code/evernote/TopFourSet.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/InterviewStreet/src/code/evernote/TopFourSet.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="282" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="CircularBuffer.java" partName="CircularBuffer.java" path="C:/Dass/Workspaces/Practise/InterviewStreet/src/code/evernote/CircularBuffer.java" title="CircularBuffer.java" tooltip="InterviewStreet/src/code/evernote/CircularBuffer.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/InterviewStreet/src/code/evernote/CircularBuffer.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1558" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="NineDigitNumber.java" partName="NineDigitNumber.java" path="C:/Dass/Workspaces/Practise/DSPuzzles/src/code/backtracking/NineDigitNumber.java" title="NineDigitNumber.java" tooltip="DSPuzzles/src/code/backtracking/NineDigitNumber.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DSPuzzles/src/code/backtracking/NineDigitNumber.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="651" selectionTopPixel="55"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MedianList.java" partName="MedianList.java" path="C:/Dass/Workspaces/Practise/InterviewStreet/src/code/MedianList.java" title="MedianList.java" tooltip="InterviewStreet/src/code/MedianList.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/InterviewStreet/src/code/MedianList.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="631" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="RatMazeProblem.java" partName="RatMazeProblem.java" path="C:/Dass/Workspaces/Practise/DSPuzzles/src/code/backtracking/RatMazeProblem.java" title="RatMazeProblem.java" tooltip="DSPuzzles/src/code/backtracking/RatMazeProblem.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DSPuzzles/src/code/backtracking/RatMazeProblem.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="885" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="RatmazeAllPaths.java" partName="RatmazeAllPaths.java" path="C:/Dass/Workspaces/Practise/DSPuzzles/src/code/backtracking/RatmazeAllPaths.java" title="RatmazeAllPaths.java" tooltip="DSPuzzles/src/code/backtracking/RatmazeAllPaths.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DSPuzzles/src/code/backtracking/RatmazeAllPaths.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="907" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="EvenTree.java" partName="EvenTree.java" path="C:/Dass/Workspaces/Practise/InterviewStreet/src/code/EvenTree.java" title="EvenTree.java" tooltip="InterviewStreet/src/code/EvenTree.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/InterviewStreet/src/code/EvenTree.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1463" selectionTopPixel="620"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="StringReduction.java" partName="StringReduction.java" path="C:/Dass/Workspaces/Practise/InterviewStreet/src/code/StringReduction.java" title="StringReduction.java" tooltip="InterviewStreet/src/code/StringReduction.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/InterviewStreet/src/code/StringReduction.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="348" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="PlayGround.java" partName="PlayGround.java" path="C:/Dass/Workspaces/Practise/practise/src/code/PlayGround.java" title="PlayGround.java" tooltip="practise/src/code/PlayGround.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/practise/src/code/PlayGround.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="203" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="StringSimilarity.java" partName="StringSimilarity.java" path="C:/Dass/Workspaces/Practise/InterviewStreet/src/code/StringSimilarity.java" title="StringSimilarity.java" tooltip="InterviewStreet/src/code/StringSimilarity.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/InterviewStreet/src/code/StringSimilarity.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="522" selectionTopPixel="103"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MinCostPath.java" partName="MinCostPath.java" path="C:/Dass/Workspaces/Practise/DSPuzzles/src/code/dynamicprogramming/MinCostPath.java" title="MinCostPath.java" tooltip="DSPuzzles/src/code/dynamicprogramming/MinCostPath.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DSPuzzles/src/code/dynamicprogramming/MinCostPath.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="712" selectionTopPixel="43"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MinPalindromeCuts.java" partName="MinPalindromeCuts.java" path="C:/Dass/Workspaces/Practise/DSPuzzles/src/code/dynamicprogramming/MinPalindromeCuts.java" title="MinPalindromeCuts.java" tooltip="DSPuzzles/src/code/dynamicprogramming/MinPalindromeCuts.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DSPuzzles/src/code/dynamicprogramming/MinPalindromeCuts.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1774" selectionTopPixel="506"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MeetingLocation.java" partName="MeetingLocation.java" path="C:/Dass/Workspaces/Practise/practise/src/code/MeetingLocation.java" title="MeetingLocation.java" tooltip="practise/src/code/MeetingLocation.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/practise/src/code/MeetingLocation.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1061" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ConstructTreeFromInorder.java" partName="ConstructTreeFromInorder.java" path="C:/Dass/Workspaces/Practise/DSPuzzles/src/code/trees/ConstructTreeFromInorder.java" title="ConstructTreeFromInorder.java" tooltip="DSPuzzles/src/code/trees/ConstructTreeFromInorder.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DSPuzzles/src/code/trees/ConstructTreeFromInorder.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1232" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TreeList.java" partName="TreeList.java" path="C:/Dass/Workspaces/Practise/DSPuzzles/src/code/trees/TreeList.java" title="TreeList.java" tooltip="DSPuzzles/src/code/trees/TreeList.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DSPuzzles/src/code/trees/TreeList.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1730" selectionTopPixel="315"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MaxPathSum.java" partName="MaxPathSum.java" path="C:/Dass/Workspaces/Practise/DSPuzzles/src/code/trees/MaxPathSum.java" title="MaxPathSum.java" tooltip="DSPuzzles/src/code/trees/MaxPathSum.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DSPuzzles/src/code/trees/MaxPathSum.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1156" selectionTopPixel="295"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="CutRod.java" partName="CutRod.java" path="C:/Dass/Workspaces/Practise/DSPuzzles/src/code/dynamicprogramming/CutRod.java" title="CutRod.java" tooltip="DSPuzzles/src/code/dynamicprogramming/CutRod.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DSPuzzles/src/code/dynamicprogramming/CutRod.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="418" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Subsets.java" partName="Subsets.java" path="C:/Dass/Workspaces/Practise/DSPuzzles/src/code/recursion/Subsets.java" title="Subsets.java" tooltip="DSPuzzles/src/code/recursion/Subsets.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DSPuzzles/src/code/recursion/Subsets.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="606" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="FoxAndFlowerShopDivTwo.java" partName="FoxAndFlowerShopDivTwo.java" path="C:/Dass/Workspaces/Practise/Topcoder/src/code/match/FoxAndFlowerShopDivTwo.java" title="FoxAndFlowerShopDivTwo.java" tooltip="Topcoder/src/code/match/FoxAndFlowerShopDivTwo.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Topcoder/src/code/match/FoxAndFlowerShopDivTwo.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1109" selectionTopPixel="160"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="CheckNPowerset.java" partName="CheckNPowerset.java" path="C:/Dass/Workspaces/Practise/practise/src/code/CheckNPowerset.java" title="CheckNPowerset.java" tooltip="practise/src/code/CheckNPowerset.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/practise/src/code/CheckNPowerset.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="401" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="PrintParathesis.java" partName="PrintParathesis.java" path="C:/Dass/Workspaces/Practise/DSPuzzles/src/code/backtracking/PrintParathesis.java" title="PrintParathesis.java" tooltip="DSPuzzles/src/code/backtracking/PrintParathesis.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DSPuzzles/src/code/backtracking/PrintParathesis.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="730" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MinPalPartitionProb.java" partName="MinPalPartitionProb.java" path="C:/Dass/Workspaces/Practise/DSPuzzles/src/code/backtracking/MinPalPartitionProb.java" title="MinPalPartitionProb.java" tooltip="DSPuzzles/src/code/backtracking/MinPalPartitionProb.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DSPuzzles/src/code/backtracking/MinPalPartitionProb.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="628" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MaxIntervalChain.java" partName="MaxIntervalChain.java" path="C:/Dass/Workspaces/Practise/DSPuzzles/src/code/dynamicprogramming/MaxIntervalChain.java" title="MaxIntervalChain.java" tooltip="DSPuzzles/src/code/dynamicprogramming/MaxIntervalChain.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DSPuzzles/src/code/dynamicprogramming/MaxIntervalChain.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1166" selectionTopPixel="373"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="LCAInBinaryTree.java" partName="LCAInBinaryTree.java" path="C:/Dass/Workspaces/Practise/DSPuzzles/src/code/trees/LCAInBinaryTree.java" title="LCAInBinaryTree.java" tooltip="DSPuzzles/src/code/trees/LCAInBinaryTree.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DSPuzzles/src/code/trees/LCAInBinaryTree.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="693" selectionTopPixel="45"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BoyceMooreVoting.java" partName="BoyceMooreVoting.java" path="C:/Dass/Workspaces/Practise/Google/src/code/BoyceMooreVoting.java" title="BoyceMooreVoting.java" tooltip="Google/src/code/BoyceMooreVoting.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Google/src/code/BoyceMooreVoting.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="439" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="LargestBSTInBinaryTree.java" partName="LargestBSTInBinaryTree.java" path="C:/Dass/Workspaces/Practise/DSPuzzles/src/code/trees/LargestBSTInBinaryTree.java" title="LargestBSTInBinaryTree.java" tooltip="DSPuzzles/src/code/trees/LargestBSTInBinaryTree.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DSPuzzles/src/code/trees/LargestBSTInBinaryTree.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1191" selectionTopPixel="266"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DictionaryWords.java" partName="DictionaryWords.java" path="C:/Dass/Workspaces/Practise/InterviewStreet/src/code/DictionaryWords.java" title="DictionaryWords.java" tooltip="InterviewStreet/src/code/DictionaryWords.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/InterviewStreet/src/code/DictionaryWords.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2728" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Denominations.java" partName="Denominations.java" path="C:/Dass/Workspaces/Practise/DSPuzzles/src/code/dynamicprogramming/Denominations.java" title="Denominations.java" tooltip="DSPuzzles/src/code/dynamicprogramming/Denominations.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DSPuzzles/src/code/dynamicprogramming/Denominations.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="666" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="GoingOffice.java" partName="GoingOffice.java" path="C:/Dass/Workspaces/Practise/InterviewStreet/src/code/GoingOffice.java" title="GoingOffice.java" tooltip="InterviewStreet/src/code/GoingOffice.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/InterviewStreet/src/code/GoingOffice.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="874" selectionTopPixel="1540"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DijkstraAlgoAdjList.java" partName="DijkstraAlgoAdjList.java" path="C:/Dass/Workspaces/Practise/DSPuzzles/src/code/graphs/DijkstraAlgoAdjList.java" title="DijkstraAlgoAdjList.java" tooltip="DSPuzzles/src/code/graphs/DijkstraAlgoAdjList.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DSPuzzles/src/code/graphs/DijkstraAlgoAdjList.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="615" selectionTopPixel="45"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="StringInterleavings.java" partName="StringInterleavings.java" path="C:/Dass/Workspaces/Practise/DSPuzzles/src/code/string/StringInterleavings.java" title="StringInterleavings.java" tooltip="DSPuzzles/src/code/string/StringInterleavings.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DSPuzzles/src/code/string/StringInterleavings.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="567" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="FindNumbers.java" partName="FindNumbers.java" path="C:/Dass/Workspaces/Practise/InterviewStreet/src/code/FindNumbers.java" title="FindNumbers.java" tooltip="InterviewStreet/src/code/FindNumbers.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/InterviewStreet/src/code/FindNumbers.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="472" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Xor.java" partName="Xor.java" path="C:/Dass/Workspaces/Practise/practise/src/code/Xor.java" title="Xor.java" tooltip="practise/src/code/Xor.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/practise/src/code/Xor.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="121" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BinomialCoefficients.java" partName="BinomialCoefficients.java" path="C:/Dass/Workspaces/Practise/InterviewStreet/src/code/BinomialCoefficients.java" title="BinomialCoefficients.java" tooltip="InterviewStreet/src/code/BinomialCoefficients.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/InterviewStreet/src/code/BinomialCoefficients.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="479" selectionTopPixel="90"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="RotateByK.java" partName="RotateByK.java" path="C:/Dass/Workspaces/Practise/DSPuzzles/src/code/puzzles/RotateByK.java" title="RotateByK.java" tooltip="DSPuzzles/src/code/puzzles/RotateByK.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DSPuzzles/src/code/puzzles/RotateByK.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="183" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Permutation.java" partName="Permutation.java" path="C:/Dass/Workspaces/Practise/DSPuzzles/src/code/string/Permutation.java" title="Permutation.java" tooltip="DSPuzzles/src/code/string/Permutation.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DSPuzzles/src/code/string/Permutation.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="864" selectionTopPixel="45"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SwapValues.java" partName="SwapValues.java" path="C:/Dass/Workspaces/Practise/DSPuzzles/src/code/puzzles/SwapValues.java" title="SwapValues.java" tooltip="DSPuzzles/src/code/puzzles/SwapValues.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DSPuzzles/src/code/puzzles/SwapValues.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="215" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="NoOfWaysDenomination.java" partName="NoOfWaysDenomination.java" path="C:/Dass/Workspaces/Practise/DSPuzzles/src/code/backtracking/NoOfWaysDenomination.java" title="NoOfWaysDenomination.java" tooltip="DSPuzzles/src/code/backtracking/NoOfWaysDenomination.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DSPuzzles/src/code/backtracking/NoOfWaysDenomination.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="556" selectionTopPixel="90"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SpecialPropetyNos.java" partName="SpecialPropetyNos.java" path="C:/Dass/Workspaces/Practise/CareerCup/src/code/SpecialPropetyNos.java" title="SpecialPropetyNos.java" tooltip="CareerCup/src/code/SpecialPropetyNos.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/CareerCup/src/code/SpecialPropetyNos.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="502" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MakeBiggestNoInArray.java" partName="MakeBiggestNoInArray.java" path="C:/Dass/Workspaces/Practise/GeeksForGeeks/src/code/MakeBiggestNoInArray.java" title="MakeBiggestNoInArray.java" tooltip="GeeksForGeeks/src/code/MakeBiggestNoInArray.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GeeksForGeeks/src/code/MakeBiggestNoInArray.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="895" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="NoOfWaysToFormNoFromArray.java" partName="NoOfWaysToFormNoFromArray.java" path="C:/Dass/Workspaces/Practise/CareerCup/src/code/NoOfWaysToFormNoFromArray.java" title="NoOfWaysToFormNoFromArray.java" tooltip="CareerCup/src/code/NoOfWaysToFormNoFromArray.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/CareerCup/src/code/NoOfWaysToFormNoFromArray.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="452" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="PowerSet.java" partName="PowerSet.java" path="C:/Dass/Workspaces/Practise/DSPuzzles/src/code/backtracking/PowerSet.java" title="PowerSet.java" tooltip="DSPuzzles/src/code/backtracking/PowerSet.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DSPuzzles/src/code/backtracking/PowerSet.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="728" selectionTopPixel="85"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="KnightTour.java" partName="KnightTour.java" path="C:/Dass/Workspaces/Practise/DSPuzzles/src/code/backtracking/KnightTour.java" title="KnightTour.java" tooltip="DSPuzzles/src/code/backtracking/KnightTour.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DSPuzzles/src/code/backtracking/KnightTour.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="832" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Factorial.java" partName="Factorial.java" path="C:/Dass/Workspaces/Practise/DSPuzzles/src/code/recursion/Factorial.java" title="Factorial.java" tooltip="DSPuzzles/src/code/recursion/Factorial.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DSPuzzles/src/code/recursion/Factorial.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="256" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ReverseSentence.java" partName="ReverseSentence.java" path="C:/Dass/Workspaces/Practise/CareerCup/src/code/ReverseSentence.java" title="ReverseSentence.java" tooltip="CareerCup/src/code/ReverseSentence.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/CareerCup/src/code/ReverseSentence.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="263" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="PrintMatrixSpiralOrder.java" partName="PrintMatrixSpiralOrder.java" path="C:/Dass/Workspaces/Practise/CareerCup/src/code/PrintMatrixSpiralOrder.java" title="PrintMatrixSpiralOrder.java" tooltip="CareerCup/src/code/PrintMatrixSpiralOrder.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/CareerCup/src/code/PrintMatrixSpiralOrder.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="886" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="FindRankInPermutation.java" partName="FindRankInPermutation.java" path="C:/Dass/Workspaces/Practise/GeeksForGeeks/src/code/FindRankInPermutation.java" title="FindRankInPermutation.java" tooltip="GeeksForGeeks/src/code/FindRankInPermutation.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GeeksForGeeks/src/code/FindRankInPermutation.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="793" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="CharCount.java" partName="CharCount.java" path="C:/Dass/Workspaces/Practise/GeeksForGeeks/src/code/CharCount.java" title="CharCount.java" tooltip="GeeksForGeeks/src/code/CharCount.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GeeksForGeeks/src/code/CharCount.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="269" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="PrefixTree.java" partName="PrefixTree.java" path="C:/Dass/Workspaces/Practise/DSPuzzles/src/code/string/PrefixTree.java" title="PrefixTree.java" tooltip="DSPuzzles/src/code/string/PrefixTree.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DSPuzzles/src/code/string/PrefixTree.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="801" selectionTopPixel="684"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="PowerFunction.java" partName="PowerFunction.java" path="C:/Dass/Workspaces/Practise/GeeksForGeeks/src/code/PowerFunction.java" title="PowerFunction.java" tooltip="GeeksForGeeks/src/code/PowerFunction.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GeeksForGeeks/src/code/PowerFunction.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="364" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="CombinationABCabc.java" partName="CombinationABCabc.java" path="C:/Dass/Workspaces/Practise/CareerCup/src/code/CombinationABCabc.java" title="CombinationABCabc.java" tooltip="CareerCup/src/code/CombinationABCabc.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/CareerCup/src/code/CombinationABCabc.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="683" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="WordWrapProblem.java" partName="WordWrapProblem.java" path="C:/Dass/Workspaces/Practise/DSPuzzles/src/code/dynamicprogramming/WordWrapProblem.java" title="WordWrapProblem.java" tooltip="DSPuzzles/src/code/dynamicprogramming/WordWrapProblem.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DSPuzzles/src/code/dynamicprogramming/WordWrapProblem.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2237" selectionTopPixel="795"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="UnionOfSortedArrays.java" partName="UnionOfSortedArrays.java" path="C:/Dass/Workspaces/Practise/CareerCup/src/code/UnionOfSortedArrays.java" title="UnionOfSortedArrays.java" tooltip="CareerCup/src/code/UnionOfSortedArrays.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/CareerCup/src/code/UnionOfSortedArrays.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="690" selectionTopPixel="180"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="IntersectionOfSortedArrays.java" partName="IntersectionOfSortedArrays.java" path="C:/Dass/Workspaces/Practise/CareerCup/src/code/IntersectionOfSortedArrays.java" title="IntersectionOfSortedArrays.java" tooltip="CareerCup/src/code/IntersectionOfSortedArrays.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/CareerCup/src/code/IntersectionOfSortedArrays.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="478" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TernarySearchTree.java" partName="TernarySearchTree.java" path="C:/Dass/Workspaces/Practise/DSPuzzles/src/code/string/TernarySearchTree.java" title="TernarySearchTree.java" tooltip="DSPuzzles/src/code/string/TernarySearchTree.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DSPuzzles/src/code/string/TernarySearchTree.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1697" selectionTopPixel="883"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BinaryTree.java" partName="BinaryTree.java" path="C:/Dass/Workspaces/Practise/CareerCup/src/code/BinaryTree.java" title="BinaryTree.java" tooltip="CareerCup/src/code/BinaryTree.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/CareerCup/src/code/BinaryTree.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="373" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="KthLargestInBST.java" partName="KthLargestInBST.java" path="C:/Dass/Workspaces/Practise/CareerCup/src/code/KthLargestInBST.java" title="KthLargestInBST.java" tooltip="CareerCup/src/code/KthLargestInBST.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/CareerCup/src/code/KthLargestInBST.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="452" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="PrintLastKNodesInReverse.java" partName="PrintLastKNodesInReverse.java" path="C:/Dass/Workspaces/Practise/DSPuzzles/src/code/linkedlists/PrintLastKNodesInReverse.java" title="PrintLastKNodesInReverse.java" tooltip="DSPuzzles/src/code/linkedlists/PrintLastKNodesInReverse.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DSPuzzles/src/code/linkedlists/PrintLastKNodesInReverse.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="486" selectionTopPixel="55"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MinCostAndPackage.java" partName="MinCostAndPackage.java" path="C:/Dass/Workspaces/Practise/CareerCup/src/code/MinCostAndPackage.java" title="MinCostAndPackage.java" tooltip="CareerCup/src/code/MinCostAndPackage.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/CareerCup/src/code/MinCostAndPackage.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="218" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="StringUtils.java" partName="StringUtils.java" path="C:/Dass/Workspaces/Practise/DSPuzzles/src/code/string/StringUtils.java" title="StringUtils.java" tooltip="DSPuzzles/src/code/string/StringUtils.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DSPuzzles/src/code/string/StringUtils.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="168" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="UglyNos.java" partName="UglyNos.java" path="C:/Dass/Workspaces/Practise/GeeksForGeeks/src/code/UglyNos.java" title="UglyNos.java" tooltip="GeeksForGeeks/src/code/UglyNos.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GeeksForGeeks/src/code/UglyNos.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="470" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MinNoJumps.java" partName="MinNoJumps.java" path="C:/Dass/Workspaces/Practise/GeeksForGeeks/src/code/MinNoJumps.java" title="MinNoJumps.java" tooltip="GeeksForGeeks/src/code/MinNoJumps.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GeeksForGeeks/src/code/MinNoJumps.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="756" selectionTopPixel="10"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ReverseNo.java" partName="ReverseNo.java" path="C:/Dass/Workspaces/Practise/CareerCup/src/code/ReverseNo.java" title="ReverseNo.java" tooltip="CareerCup/src/code/ReverseNo.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/CareerCup/src/code/ReverseNo.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="284" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ReverseString.java" partName="ReverseString.java" path="C:/Dass/Workspaces/Practise/CareerCup/src/code/ReverseString.java" title="ReverseString.java" tooltip="CareerCup/src/code/ReverseString.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/CareerCup/src/code/ReverseString.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="602" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ShortestPathWords.java" partName="ShortestPathWords.java" path="C:/Dass/Workspaces/Practise/practise/src/code/ShortestPathWords.java" title="ShortestPathWords.java" tooltip="practise/src/code/ShortestPathWords.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/practise/src/code/ShortestPathWords.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="811" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ShortestPathWords.java" partName="ShortestPathWords.java" path="C:/Dass/Workspaces/Practise/practise/src/code/ShortestPathWords.java" title="ShortestPathWords.java" tooltip="practise/src/code/ShortestPathWords.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/practise/src/code/ShortestPathWords.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1419" selectionTopPixel="3842"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ArrayToBinaryTree.java" partName="ArrayToBinaryTree.java" path="C:/Dass/Workspaces/Practise/practise/src/code/ArrayToBinaryTree.java" title="ArrayToBinaryTree.java" tooltip="practise/src/code/ArrayToBinaryTree.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/practise/src/code/ArrayToBinaryTree.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1316" selectionTopPixel="405"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BinaryTree.java" partName="BinaryTree.java" path="C:/Dass/Workspaces/Practise/practise/src/code/BinaryTree.java" title="BinaryTree.java" tooltip="practise/src/code/BinaryTree.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/practise/src/code/BinaryTree.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="302" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ShortestPathWordsWithInsertDelete.java" partName="ShortestPathWordsWithInsertDelete.java" path="C:/Dass/Workspaces/Practise/DSPuzzles/src/code/puzzles/ShortestPathWordsWithInsertDelete.java" title="ShortestPathWordsWithInsertDelete.java" tooltip="DSPuzzles/src/code/puzzles/ShortestPathWordsWithInsertDelete.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DSPuzzles/src/code/puzzles/ShortestPathWordsWithInsertDelete.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="4159" selectionTopPixel="1931"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="EditDistanceAlgo.java" partName="EditDistanceAlgo.java" path="C:/Dass/Workspaces/Practise/DSPuzzles/src/code/dynamicprogramming/EditDistanceAlgo.java" title="EditDistanceAlgo.java" tooltip="DSPuzzles/src/code/dynamicprogramming/EditDistanceAlgo.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DSPuzzles/src/code/dynamicprogramming/EditDistanceAlgo.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="333" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MaxDistanceInArray.java" partName="MaxDistanceInArray.java" path="C:/Dass/Workspaces/Practise/practise/src/code/MaxDistanceInArray.java" title="MaxDistanceInArray.java" tooltip="practise/src/code/MaxDistanceInArray.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/practise/src/code/MaxDistanceInArray.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="521" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SuffixTreeQuestion.java" partName="SuffixTreeQuestion.java" path="C:/Dass/Workspaces/Practise/DSPuzzles/src/code/string/SuffixTreeQuestion.java" title="SuffixTreeQuestion.java" tooltip="DSPuzzles/src/code/string/SuffixTreeQuestion.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DSPuzzles/src/code/string/SuffixTreeQuestion.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1473" selectionTopPixel="540"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BinaryTree.java" partName="BinaryTree.java" path="C:/Dass/Workspaces/Practise/DSPuzzles/src/code/trees/BinaryTree.java" title="BinaryTree.java" tooltip="DSPuzzles/src/code/trees/BinaryTree.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DSPuzzles/src/code/trees/BinaryTree.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MirrorImage.java" partName="MirrorImage.java" path="C:/Dass/Workspaces/Practise/DSPuzzles/src/code/trees/MirrorImage.java" title="MirrorImage.java" tooltip="DSPuzzles/src/code/trees/MirrorImage.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DSPuzzles/src/code/trees/MirrorImage.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="893" selectionTopPixel="170"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ShortestPathWordsM.java" partName="ShortestPathWordsM.java" path="C:/Dass/Workspaces/Practise/practise/src/code/ShortestPathWordsM.java" title="ShortestPathWordsM.java" tooltip="practise/src/code/ShortestPathWordsM.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/practise/src/code/ShortestPathWordsM.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="735" selectionTopPixel="45"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ShortestPathWordsMatrix.java" partName="ShortestPathWordsMatrix.java" path="C:/Dass/Workspaces/Practise/practise/src/code/ShortestPathWordsMatrix.java" title="ShortestPathWordsMatrix.java" tooltip="practise/src/code/ShortestPathWordsMatrix.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/practise/src/code/ShortestPathWordsMatrix.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="357" selectionTopPixel="3461"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="PriorityQueueTest.java" partName="PriorityQueueTest.java" path="C:/Dass/Workspaces/Practise/practise/src/code/PriorityQueueTest.java" title="PriorityQueueTest.java" tooltip="practise/src/code/PriorityQueueTest.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/practise/src/code/PriorityQueueTest.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1051" selectionTopPixel="50"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="LongSeqSumZero.java" partName="LongSeqSumZero.java" path="C:/Dass/Workspaces/Practise/CareerCup/src/code/LongSeqSumZero.java" title="LongSeqSumZero.java" tooltip="CareerCup/src/code/LongSeqSumZero.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/CareerCup/src/code/LongSeqSumZero.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="305" selectionTopPixel="10"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MaxInWindowK.java" partName="MaxInWindowK.java" path="C:/Dass/Workspaces/Practise/CareerCup/src/code/MaxInWindowK.java" title="MaxInWindowK.java" tooltip="CareerCup/src/code/MaxInWindowK.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/CareerCup/src/code/MaxInWindowK.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="698" selectionTopPixel="55"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="PrintAllSubArrays.java" partName="PrintAllSubArrays.java" path="C:/Dass/Workspaces/Practise/CareerCup/src/code/PrintAllSubArrays.java" title="PrintAllSubArrays.java" tooltip="CareerCup/src/code/PrintAllSubArrays.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/CareerCup/src/code/PrintAllSubArrays.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="417" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="KDTree.java" partName="KDTree.java" path="C:/Dass/Workspaces/Practise/DSPuzzles/src/code/advancedds/KDTree.java" title="KDTree.java" tooltip="DSPuzzles/src/code/advancedds/KDTree.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DSPuzzles/src/code/advancedds/KDTree.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2084" selectionTopPixel="495"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="LRU.java" partName="LRU.java" path="C:/Dass/Workspaces/Practise/practise/src/code/LRU.java" title="LRU.java" tooltip="practise/src/code/LRU.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/practise/src/code/LRU.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="520" selectionTopPixel="340"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="NoOfWaysClimbingBuilding.java" partName="NoOfWaysClimbingBuilding.java" path="C:/Dass/Workspaces/Practise/practise/src/code/NoOfWaysClimbingBuilding.java" title="NoOfWaysClimbingBuilding.java" tooltip="practise/src/code/NoOfWaysClimbingBuilding.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/practise/src/code/NoOfWaysClimbingBuilding.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="393" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="RegExMatching.java" partName="RegExMatching.java" path="C:/Dass/Workspaces/Practise/CareerCup/src/code/RegExMatching.java" title="RegExMatching.java" tooltip="CareerCup/src/code/RegExMatching.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/CareerCup/src/code/RegExMatching.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="458" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BitsSet.java" partName="BitsSet.java" path="C:/Dass/Workspaces/Practise/EPI/src/code/type/BitsSet.java" title="BitsSet.java" tooltip="EPI/src/code/type/BitsSet.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/EPI/src/code/type/BitsSet.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="233" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="PowerSet.java" partName="PowerSet.java" path="C:/Dass/Workspaces/Practise/EPI/src/code/type/PowerSet.java" title="PowerSet.java" tooltip="EPI/src/code/type/PowerSet.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/EPI/src/code/type/PowerSet.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="461" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ExcelColIDToNum.java" partName="ExcelColIDToNum.java" path="C:/Dass/Workspaces/Practise/EPI/src/code/type/ExcelColIDToNum.java" title="ExcelColIDToNum.java" tooltip="EPI/src/code/type/ExcelColIDToNum.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/EPI/src/code/type/ExcelColIDToNum.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="338" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="GCDWithoutOps.java" partName="GCDWithoutOps.java" path="C:/Dass/Workspaces/Practise/EPI/src/code/type/GCDWithoutOps.java" title="GCDWithoutOps.java" tooltip="EPI/src/code/type/GCDWithoutOps.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/EPI/src/code/type/GCDWithoutOps.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="463" selectionTopPixel="70"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="GeneratePrimeNo.java" partName="GeneratePrimeNo.java" path="C:/Dass/Workspaces/Practise/EPI/src/code/type/GeneratePrimeNo.java" title="GeneratePrimeNo.java" tooltip="EPI/src/code/type/GeneratePrimeNo.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/EPI/src/code/type/GeneratePrimeNo.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="681" selectionTopPixel="40"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BST.java" partName="BST.java" path="C:/Dass/Workspaces/Practise/practise/src/code/BST.java" title="BST.java" tooltip="practise/src/code/BST.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/practise/src/code/BST.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="645" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="PrintNodesAtDistanceK.java" partName="PrintNodesAtDistanceK.java" path="C:/Dass/Workspaces/Practise/practise/src/code/PrintNodesAtDistanceK.java" title="PrintNodesAtDistanceK.java" tooltip="practise/src/code/PrintNodesAtDistanceK.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/practise/src/code/PrintNodesAtDistanceK.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1602" selectionTopPixel="896"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="EditDistanceWithDifferentCost.java" partName="EditDistanceWithDifferentCost.java" path="C:/Dass/Workspaces/Practise/CareerCup/src/code/EditDistanceWithDifferentCost.java" title="EditDistanceWithDifferentCost.java" tooltip="CareerCup/src/code/EditDistanceWithDifferentCost.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/CareerCup/src/code/EditDistanceWithDifferentCost.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="968" selectionTopPixel="160"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="LongestPalindrome.java" partName="LongestPalindrome.java" path="C:/Dass/Workspaces/Practise/practise/src/code/LongestPalindrome.java" title="LongestPalindrome.java" tooltip="practise/src/code/LongestPalindrome.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/practise/src/code/LongestPalindrome.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="412" selectionTopPixel="155"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BinSearchFor01.java" partName="BinSearchFor01.java" path="C:/Dass/Workspaces/Practise/CareerCup/src/code/BinSearchFor01.java" title="BinSearchFor01.java" tooltip="CareerCup/src/code/BinSearchFor01.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/CareerCup/src/code/BinSearchFor01.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="539" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SumOfAllChilNodes.java" partName="SumOfAllChilNodes.java" path="C:/Dass/Workspaces/Practise/CareerCup/src/code/SumOfAllChilNodes.java" title="SumOfAllChilNodes.java" tooltip="CareerCup/src/code/SumOfAllChilNodes.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/CareerCup/src/code/SumOfAllChilNodes.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="558" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="PermutationAsGraph.java" partName="PermutationAsGraph.java" path="C:/Dass/Workspaces/Practise/DSPuzzles/src/code/string/PermutationAsGraph.java" title="PermutationAsGraph.java" tooltip="DSPuzzles/src/code/string/PermutationAsGraph.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DSPuzzles/src/code/string/PermutationAsGraph.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="598" selectionTopPixel="115"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="OptimalBST.java" partName="OptimalBST.java" path="C:/Dass/Workspaces/Practise/DSPuzzles/src/code/dynamicprogramming/OptimalBST.java" title="OptimalBST.java" tooltip="DSPuzzles/src/code/dynamicprogramming/OptimalBST.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DSPuzzles/src/code/dynamicprogramming/OptimalBST.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="613" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BoyerMooreAlgo.java" partName="BoyerMooreAlgo.java" path="C:/Dass/Workspaces/Practise/DSPuzzles/src/code/string/BoyerMooreAlgo.java" title="BoyerMooreAlgo.java" tooltip="DSPuzzles/src/code/string/BoyerMooreAlgo.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DSPuzzles/src/code/string/BoyerMooreAlgo.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1848" selectionTopPixel="671"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="PopulateRightSibling.java" partName="PopulateRightSibling.java" path="C:/Dass/Workspaces/Practise/CareerCup/src/code/PopulateRightSibling.java" title="PopulateRightSibling.java" tooltip="CareerCup/src/code/PopulateRightSibling.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/CareerCup/src/code/PopulateRightSibling.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="951" selectionTopPixel="100"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="PartitionQSort.java" partName="PartitionQSort.java" path="C:/Dass/Workspaces/Practise/EPI/src/code/arrays/PartitionQSort.java" title="PartitionQSort.java" tooltip="EPI/src/code/arrays/PartitionQSort.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/EPI/src/code/arrays/PartitionQSort.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="669" selectionTopPixel="24"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="NoOfJavaFiles.java" partName="NoOfJavaFiles.java" path="C:/Dass/Workspaces/Practise/practise/src/code/NoOfJavaFiles.java" title="NoOfJavaFiles.java" tooltip="practise/src/code/NoOfJavaFiles.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/practise/src/code/NoOfJavaFiles.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="836" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="FindMinInsertionFormPalindrome.java" partName="FindMinInsertionFormPalindrome.java" path="C:/Dass/Workspaces/Practise/DSPuzzles/src/code/dynamicprogramming/FindMinInsertionFormPalindrome.java" title="FindMinInsertionFormPalindrome.java" tooltip="DSPuzzles/src/code/dynamicprogramming/FindMinInsertionFormPalindrome.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DSPuzzles/src/code/dynamicprogramming/FindMinInsertionFormPalindrome.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="916" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ShorterSuperSum.java" partName="ShorterSuperSum.java" path="C:/Dass/Workspaces/Practise/Topcoder/src/code/match/ShorterSuperSum.java" title="ShorterSuperSum.java" tooltip="Topcoder/src/code/match/ShorterSuperSum.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Topcoder/src/code/match/ShorterSuperSum.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="367" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="LateProfessor.java" partName="LateProfessor.java" path="C:/Dass/Workspaces/Practise/Topcoder/src/code/match/LateProfessor.java" title="LateProfessor.java" tooltip="Topcoder/src/code/match/LateProfessor.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Topcoder/src/code/match/LateProfessor.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="525" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="FibinocciSeq.java" partName="FibinocciSeq.java" path="C:/Dass/Workspaces/Practise/practise/src/code/algo/dasgupta/FibinocciSeq.java" title="FibinocciSeq.java" tooltip="practise/src/code/algo/dasgupta/FibinocciSeq.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/practise/src/code/algo/dasgupta/FibinocciSeq.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="488" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DisjointSets.java" partName="DisjointSets.java" path="C:/Dass/Workspaces/Practise/DSPuzzles/src/code/ADT/DisjointSets.java" title="DisjointSets.java" tooltip="DSPuzzles/src/code/ADT/DisjointSets.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DSPuzzles/src/code/ADT/DisjointSets.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="632" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MazeOnFire.java" partName="MazeOnFire.java" path="C:/Dass/Workspaces/Practise/Topcoder/src/code/match/MazeOnFire.java" title="MazeOnFire.java" tooltip="Topcoder/src/code/match/MazeOnFire.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Topcoder/src/code/match/MazeOnFire.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="637" selectionTopPixel="805"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="NoOfWaysDeneminationSingleSelection.java" partName="NoOfWaysDeneminationSingleSelection.java" path="C:/Dass/Workspaces/Practise/CareerCup/src/code/NoOfWaysDeneminationSingleSelection.java" title="NoOfWaysDeneminationSingleSelection.java" tooltip="CareerCup/src/code/NoOfWaysDeneminationSingleSelection.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/CareerCup/src/code/NoOfWaysDeneminationSingleSelection.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="457" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="OrderedNim.java" partName="OrderedNim.java" path="C:/Dass/Workspaces/Practise/Topcoder/src/code/fourfifty/OrderedNim.java" title="OrderedNim.java" tooltip="Topcoder/src/code/fourfifty/OrderedNim.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Topcoder/src/code/fourfifty/OrderedNim.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="604" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="EnemyTowers.java" partName="EnemyTowers.java" path="C:/Dass/Workspaces/Practise/Topcoder/src/code/fourfifty/EnemyTowers.java" title="EnemyTowers.java" tooltip="Topcoder/src/code/fourfifty/EnemyTowers.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Topcoder/src/code/fourfifty/EnemyTowers.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1152" selectionTopPixel="550"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ReverseMagicalSource.java" partName="ReverseMagicalSource.java" path="C:/Dass/Workspaces/Practise/Topcoder/src/code/fourfiftyone/ReverseMagicalSource.java" title="ReverseMagicalSource.java" tooltip="Topcoder/src/code/fourfiftyone/ReverseMagicalSource.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Topcoder/src/code/fourfiftyone/ReverseMagicalSource.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="478" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BoredPhilosophers.java" partName="BoredPhilosophers.java" path="C:/Dass/Workspaces/Practise/Topcoder/src/code/fourfiftyone/BoredPhilosophers.java" title="BoredPhilosophers.java" tooltip="Topcoder/src/code/fourfiftyone/BoredPhilosophers.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Topcoder/src/code/fourfiftyone/BoredPhilosophers.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="4047" selectionTopPixel="765"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="PizzaDelivery.java" partName="PizzaDelivery.java" path="C:/Dass/Workspaces/Practise/Topcoder/src/code/fourfiftyone/PizzaDelivery.java" title="PizzaDelivery.java" tooltip="Topcoder/src/code/fourfiftyone/PizzaDelivery.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Topcoder/src/code/fourfiftyone/PizzaDelivery.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2759" selectionTopPixel="1225"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="NotTwo.java" partName="NotTwo.java" path="C:/Dass/Workspaces/Practise/Topcoder/src/code/fourfiftytwo/NotTwo.java" title="NotTwo.java" tooltip="Topcoder/src/code/fourfiftytwo/NotTwo.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Topcoder/src/code/fourfiftytwo/NotTwo.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="349" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="HamiltonPath.java" partName="HamiltonPath.java" path="C:/Dass/Workspaces/Practise/Topcoder/src/code/fourfiftytwo/HamiltonPath.java" title="HamiltonPath.java" tooltip="Topcoder/src/code/fourfiftytwo/HamiltonPath.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Topcoder/src/code/fourfiftytwo/HamiltonPath.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="217" selectionOffset="214" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TheBasketballDivTwo.java" partName="TheBasketballDivTwo.java" path="C:/Dass/Workspaces/Practise/Topcoder/src/code/fourfiftythree/TheBasketballDivTwo.java" title="TheBasketballDivTwo.java" tooltip="Topcoder/src/code/fourfiftythree/TheBasketballDivTwo.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Topcoder/src/code/fourfiftythree/TheBasketballDivTwo.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="939" selectionTopPixel="270"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="HamiltonianPathLxx.java" partName="HamiltonianPathLxx.java" path="C:/Dass/Workspaces/Practise/Topcoder/src/code/fourfiftytwo/HamiltonianPathLxx.java" title="HamiltonianPathLxx.java" tooltip="Topcoder/src/code/fourfiftytwo/HamiltonianPathLxx.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Topcoder/src/code/fourfiftytwo/HamiltonianPathLxx.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="696" selectionTopPixel="475"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TheSoccerDivTwo.java" partName="TheSoccerDivTwo.java" path="C:/Dass/Workspaces/Practise/Topcoder/src/code/fourfiftythree/TheSoccerDivTwo.java" title="TheSoccerDivTwo.java" tooltip="Topcoder/src/code/fourfiftythree/TheSoccerDivTwo.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Topcoder/src/code/fourfiftythree/TheSoccerDivTwo.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="358" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MazeMaker.java" partName="MazeMaker.java" path="C:/Dass/Workspaces/Practise/Topcoder/src/code/FourFiftyTreePointFive/MazeMaker.java" title="MazeMaker.java" tooltip="Topcoder/src/code/FourFiftyTreePointFive/MazeMaker.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Topcoder/src/code/FourFiftyTreePointFive/MazeMaker.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1481" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TheProduct.java" partName="TheProduct.java" path="C:/Dass/Workspaces/Practise/Topcoder/src/code/FourFiftyTreePointFive/TheProduct.java" title="TheProduct.java" tooltip="Topcoder/src/code/FourFiftyTreePointFive/TheProduct.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Topcoder/src/code/FourFiftyTreePointFive/TheProduct.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1346" selectionTopPixel="405"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="FindSubsetSumZero.java" partName="FindSubsetSumZero.java" path="C:/Dass/Workspaces/Practise/practise/src/code/FindSubsetSumZero.java" title="FindSubsetSumZero.java" tooltip="practise/src/code/FindSubsetSumZero.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/practise/src/code/FindSubsetSumZero.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1019" selectionTopPixel="325"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Complexity.java" partName="Complexity.java" path="C:/Dass/Workspaces/Practise/practise/src/code/Complexity.java" title="Complexity.java" tooltip="practise/src/code/Complexity.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/practise/src/code/Complexity.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="208" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SpecialCharacters.java" partName="SpecialCharacters.java" path="C:/Dass/Workspaces/Practise/JavaFuns/src/code/SpecialCharacters.java" title="SpecialCharacters.java" tooltip="JavaFuns/src/code/SpecialCharacters.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/JavaFuns/src/code/SpecialCharacters.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="778" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DemoThread.java" partName="DemoThread.java" path="C:/Dass/Workspaces/Practise/JavaFuns/src/code/threads/DemoThread.java" title="DemoThread.java" tooltip="JavaFuns/src/code/threads/DemoThread.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/JavaFuns/src/code/threads/DemoThread.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="166" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DemoExecutor.java" partName="DemoExecutor.java" path="C:/Dass/Workspaces/Practise/JavaFuns/src/code/threads/DemoExecutor.java" title="DemoExecutor.java" tooltip="JavaFuns/src/code/threads/DemoExecutor.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/JavaFuns/src/code/threads/DemoExecutor.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="621" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="CustomThreadPoolExecutor.java" partName="CustomThreadPoolExecutor.java" path="C:/Dass/Workspaces/Practise/JavaFuns/src/code/threads/CustomThreadPoolExecutor.java" title="CustomThreadPoolExecutor.java" tooltip="JavaFuns/src/code/threads/CustomThreadPoolExecutor.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/JavaFuns/src/code/threads/CustomThreadPoolExecutor.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="800" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TreeMapEx.java" partName="TreeMapEx.java" path="C:/Dass/Workspaces/Practise/JavaFuns/src/code/collections/TreeMapEx.java" title="TreeMapEx.java" tooltip="JavaFuns/src/code/collections/TreeMapEx.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/JavaFuns/src/code/collections/TreeMapEx.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="100" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SpidersOnTheGrid.java" partName="SpidersOnTheGrid.java" path="C:/Dass/Workspaces/Practise/Topcoder/src/code/fourfiftyfive/SpidersOnTheGrid.java" title="SpidersOnTheGrid.java" tooltip="Topcoder/src/code/fourfiftyfive/SpidersOnTheGrid.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Topcoder/src/code/fourfiftyfive/SpidersOnTheGrid.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="652" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="EasySequence.java" partName="EasySequence.java" path="C:/Dass/Workspaces/Practise/Topcoder/src/code/fourfiftyfive/EasySequence.java" title="EasySequence.java" tooltip="Topcoder/src/code/fourfiftyfive/EasySequence.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Topcoder/src/code/fourfiftyfive/EasySequence.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="296" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ConstructTreeFromInAndPostOrder.java" partName="ConstructTreeFromInAndPostOrder.java" path="C:/Dass/Workspaces/Practise/DSPuzzles/src/code/trees/ConstructTreeFromInAndPostOrder.java" title="ConstructTreeFromInAndPostOrder.java" tooltip="DSPuzzles/src/code/trees/ConstructTreeFromInAndPostOrder.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DSPuzzles/src/code/trees/ConstructTreeFromInAndPostOrder.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1018" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Answer0toKRangeQuery.java" partName="Answer0toKRangeQuery.java" path="C:/Users/user/Desktop/Myself/Codes/Kowshikp/big-o-master/java/src/arrays/Answer0toKRangeQuery.java" title="Answer0toKRangeQuery.java" tooltip="big-o-java/src/arrays/Answer0toKRangeQuery.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/big-o-java/src/arrays/Answer0toKRangeQuery.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="860" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BoundedQueue.java" partName="BoundedQueue.java" path="C:/Users/user/Desktop/Myself/Codes/Kowshikp/big-o-master/java/src/arrays/BoundedQueue.java" title="BoundedQueue.java" tooltip="big-o-java/src/arrays/BoundedQueue.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/big-o-java/src/arrays/BoundedQueue.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="439" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="CountInversions.java" partName="CountInversions.java" path="C:/Users/user/Desktop/Myself/Codes/Kowshikp/big-o-master/java/src/arrays/CountInversions.java" title="CountInversions.java" tooltip="big-o-java/src/arrays/CountInversions.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/big-o-java/src/arrays/CountInversions.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1273" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="RearrangeInputToTarget.java" partName="RearrangeInputToTarget.java" path="C:/Users/user/Desktop/Myself/Codes/Kowshikp/big-o-master/java/src/arrays/RearrangeInputToTarget.java" title="RearrangeInputToTarget.java" tooltip="big-o-java/src/arrays/RearrangeInputToTarget.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/big-o-java/src/arrays/RearrangeInputToTarget.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="933" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BoundedBlockingQueue.java" partName="BoundedBlockingQueue.java" path="C:/Users/user/Desktop/Myself/Codes/Kowshikp/big-o-master/java/src/concurrency/BoundedBlockingQueue.java" title="BoundedBlockingQueue.java" tooltip="big-o-java/src/concurrency/BoundedBlockingQueue.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/big-o-java/src/concurrency/BoundedBlockingQueue.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="11" selectionOffset="2334" selectionTopPixel="335"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="FirstReaderWriterLock.java" partName="FirstReaderWriterLock.java" path="C:/Users/user/Desktop/Myself/Codes/Kowshikp/big-o-master/java/src/concurrency/FirstReaderWriterLock.java" title="FirstReaderWriterLock.java" tooltip="big-o-java/src/concurrency/FirstReaderWriterLock.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/big-o-java/src/concurrency/FirstReaderWriterLock.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1898" selectionTopPixel="695"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SchedulingExecutor.java" partName="SchedulingExecutor.java" path="C:/Users/user/Desktop/Myself/Codes/Kowshikp/big-o-master/java/src/concurrency/SchedulingExecutor.java" title="SchedulingExecutor.java" tooltip="big-o-java/src/concurrency/SchedulingExecutor.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/big-o-java/src/concurrency/SchedulingExecutor.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="158" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SecondReaderWriterLock.java" partName="SecondReaderWriterLock.java" path="C:/Users/user/Desktop/Myself/Codes/Kowshikp/big-o-master/java/src/concurrency/SecondReaderWriterLock.java" title="SecondReaderWriterLock.java" tooltip="big-o-java/src/concurrency/SecondReaderWriterLock.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/big-o-java/src/concurrency/SecondReaderWriterLock.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Semaphore.java" partName="Semaphore.java" path="C:/Users/user/Desktop/Myself/Codes/Kowshikp/big-o-master/java/src/concurrency/Semaphore.java" title="Semaphore.java" tooltip="big-o-java/src/concurrency/Semaphore.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/big-o-java/src/concurrency/Semaphore.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2139" selectionTopPixel="365"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AllTests.java" partName="AllTests.java" path="C:/Users/user/Desktop/Myself/Codes/Kowshikp/big-o-master/java/tests/AllTests.java" title="AllTests.java" tooltip="big-o-java/tests/AllTests.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/big-o-java/tests/AllTests.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="19" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BstClosestNodeTest.java" partName="BstClosestNodeTest.java" path="C:/Users/user/Desktop/Myself/Codes/Kowshikp/big-o-master/java/tests/binarytree/BstClosestNodeTest.java" title="BstClosestNodeTest.java" tooltip="big-o-java/tests/binarytree/BstClosestNodeTest.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/big-o-java/tests/binarytree/BstClosestNodeTest.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="494" selectionTopPixel="700"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DeepIteratorTest.java" partName="DeepIteratorTest.java" path="C:/Users/user/Desktop/Myself/Codes/Kowshikp/big-o-master/java/tests/collections/DeepIteratorTest.java" title="DeepIteratorTest.java" tooltip="big-o-java/tests/collections/DeepIteratorTest.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/big-o-java/tests/collections/DeepIteratorTest.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="803" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="NumberUtilsTest.java" partName="NumberUtilsTest.java" path="C:/Users/user/Desktop/Myself/Codes/Kowshikp/big-o-master/java/tests/common/NumberUtilsTest.java" title="NumberUtilsTest.java" tooltip="big-o-java/tests/common/NumberUtilsTest.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/big-o-java/tests/common/NumberUtilsTest.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="358" selectionTopPixel="880"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="StringUtilsTest.java" partName="StringUtilsTest.java" path="C:/Users/user/Desktop/Myself/Codes/Kowshikp/big-o-master/java/tests/common/StringUtilsTest.java" title="StringUtilsTest.java" tooltip="big-o-java/tests/common/StringUtilsTest.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/big-o-java/tests/common/StringUtilsTest.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="325" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="StupidSortTest.java" partName="StupidSortTest.java" path="C:/Users/user/Desktop/Myself/Codes/Kowshikp/big-o-master/java/tests/sorting/StupidSortTest.java" title="StupidSortTest.java" tooltip="big-o-java/tests/sorting/StupidSortTest.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/big-o-java/tests/sorting/StupidSortTest.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1221" selectionTopPixel="235"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="QuickSortTest.java" partName="QuickSortTest.java" path="C:/Users/user/Desktop/Myself/Codes/Kowshikp/big-o-master/java/tests/sorting/QuickSortTest.java" title="QuickSortTest.java" tooltip="big-o-java/tests/sorting/QuickSortTest.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/big-o-java/tests/sorting/QuickSortTest.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MergeSortTest.java" partName="MergeSortTest.java" path="C:/Users/user/Desktop/Myself/Codes/Kowshikp/big-o-master/java/tests/sorting/MergeSortTest.java" title="MergeSortTest.java" tooltip="big-o-java/tests/sorting/MergeSortTest.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/big-o-java/tests/sorting/MergeSortTest.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="HeapSortTest.java" partName="HeapSortTest.java" path="C:/Users/user/Desktop/Myself/Codes/Kowshikp/big-o-master/java/tests/sorting/HeapSortTest.java" title="HeapSortTest.java" tooltip="big-o-java/tests/sorting/HeapSortTest.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/big-o-java/tests/sorting/HeapSortTest.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="InsertionSortTest.java" partName="InsertionSortTest.java" path="C:/Users/user/Desktop/Myself/Codes/Kowshikp/big-o-master/java/tests/sorting/InsertionSortTest.java" title="InsertionSortTest.java" tooltip="big-o-java/tests/sorting/InsertionSortTest.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/big-o-java/tests/sorting/InsertionSortTest.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SinglyLinkedListTest.java" partName="SinglyLinkedListTest.java" path="C:/Users/user/Desktop/Myself/Codes/Kowshikp/big-o-master/java/tests/collections/lists/SinglyLinkedListTest.java" title="SinglyLinkedListTest.java" tooltip="big-o-java/tests/collections/lists/SinglyLinkedListTest.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/big-o-java/tests/collections/lists/SinglyLinkedListTest.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="5" selectionOffset="285" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="RearrangeInputToTargetTest.java" partName="RearrangeInputToTargetTest.java" path="C:/Users/user/Desktop/Myself/Codes/Kowshikp/big-o-master/java/tests/arrays/RearrangeInputToTargetTest.java" title="RearrangeInputToTargetTest.java" tooltip="big-o-java/tests/arrays/RearrangeInputToTargetTest.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/big-o-java/tests/arrays/RearrangeInputToTargetTest.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="535" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ArrayUtils.java" partName="ArrayUtils.java" path="C:/Users/user/Desktop/Myself/Codes/Kowshikp/big-o-master/java/src/common/ArrayUtils.java" title="ArrayUtils.java" tooltip="big-o-java/src/common/ArrayUtils.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/big-o-java/src/common/ArrayUtils.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="334" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SinglyLinkedList.java" partName="SinglyLinkedList.java" path="C:/Users/user/Desktop/Myself/Codes/Kowshikp/big-o-master/java/src/collections/lists/SinglyLinkedList.java" title="SinglyLinkedList.java" tooltip="big-o-java/src/collections/lists/SinglyLinkedList.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/big-o-java/src/collections/lists/SinglyLinkedList.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="512" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BinaryCode.java" partName="BinaryCode.java" path="C:/Dass/Workspaces/Practise/practise/src/code/BinaryCode.java" title="BinaryCode.java" tooltip="practise/src/code/BinaryCode.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/practise/src/code/BinaryCode.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="305" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BigArrayList.java" partName="BigArrayList.java" path="C:/Dass/Workspaces/Practise/JavaFuns/src/code/collections/BigArrayList.java" title="BigArrayList.java" tooltip="JavaFuns/src/code/collections/BigArrayList.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/JavaFuns/src/code/collections/BigArrayList.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="603" selectionTopPixel="1755"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="LargeDoubleMatrix.java" partName="LargeDoubleMatrix.java" path="C:/Dass/Workspaces/Practise/JavaFuns/src/code/io/LargeDoubleMatrix.java" title="LargeDoubleMatrix.java" tooltip="JavaFuns/src/code/io/LargeDoubleMatrix.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/JavaFuns/src/code/io/LargeDoubleMatrix.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="318" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="LargeDoubleMatrixTest.java" partName="LargeDoubleMatrixTest.java" path="C:/Dass/Workspaces/Practise/JavaFuns/src/code/io/LargeDoubleMatrixTest.java" title="LargeDoubleMatrixTest.java" tooltip="JavaFuns/src/code/io/LargeDoubleMatrixTest.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/JavaFuns/src/code/io/LargeDoubleMatrixTest.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1079" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.ClassFileEditor" name="TestDecorator.class" partName="TestDecorator.class" title="TestDecorator.class" tooltip="junit.extensions.TestDecorator" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" org.eclipse.jdt.ui.ClassFileIdentifier="=big-o-java/C:\/Dass\/IDE\/Indigos\/eclipse\/plugins\/org.junit_4.8.2.v4_8_2_v20110321-1705\/junit.jar&lt;junit.extensions(TestDecorator.class"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.ClassFileEditor" name="Assert.class" partName="Assert.class" title="Assert.class" tooltip="org.junit.Assert" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" org.eclipse.jdt.ui.ClassFileIdentifier="=big-o-java/C:\/Dass\/IDE\/Indigos\/eclipse\/plugins\/org.junit_4.8.2.v4_8_2_v20110321-1705\/junit.jar&lt;org.junit(Assert.class"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MemoryMapWriter.java" partName="MemoryMapWriter.java" path="C:/Dass/Workspaces/Practise/JavaFuns/src/code/io/MemoryMapWriter.java" title="MemoryMapWriter.java" tooltip="JavaFuns/src/code/io/MemoryMapWriter.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/JavaFuns/src/code/io/MemoryMapWriter.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="996" selectionTopPixel="65"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MemoryMapReader.java" partName="MemoryMapReader.java" path="C:/Dass/Workspaces/Practise/JavaFuns/src/code/io/MemoryMapReader.java" title="MemoryMapReader.java" tooltip="JavaFuns/src/code/io/MemoryMapReader.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/JavaFuns/src/code/io/MemoryMapReader.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="845" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="FibinacciGeneration.java" partName="FibinacciGeneration.java" path="C:/Dass/Workspaces/Practise/GeeksForGeeks/src/code/FibinacciGeneration.java" title="FibinacciGeneration.java" tooltip="GeeksForGeeks/src/code/FibinacciGeneration.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GeeksForGeeks/src/code/FibinacciGeneration.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="690" selectionTopPixel="205"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ListIteratorAdd.java" partName="ListIteratorAdd.java" path="C:/Dass/Workspaces/Practise/JavaFuns/src/code/collections/ListIteratorAdd.java" title="ListIteratorAdd.java" tooltip="JavaFuns/src/code/collections/ListIteratorAdd.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/JavaFuns/src/code/collections/ListIteratorAdd.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="163" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TimedExecution.java" partName="TimedExecution.java" path="C:/Dass/Workspaces/Practise/JavaFuns/src/code/threads/TimedExecution.java" title="TimedExecution.java" tooltip="JavaFuns/src/code/threads/TimedExecution.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/JavaFuns/src/code/threads/TimedExecution.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1108" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="FastIo.java" partName="FastIo.java" path="C:/Dass/Workspaces/Practise/JavaFuns/src/code/io/FastIo.java" title="FastIo.java" tooltip="JavaFuns/src/code/io/FastIo.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/JavaFuns/src/code/io/FastIo.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1099" selectionTopPixel="110"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.ClassFileEditor" name="StandardOpenOption.class" partName="StandardOpenOption.class" title="StandardOpenOption.class" tooltip="java.nio.file.StandardOpenOption" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" org.eclipse.jdt.ui.ClassFileIdentifier="=JavaFuns/C:\/Program Files\/Java\/jdk1.7.0\/jre\/lib\/rt.jar&lt;java.nio.file(StandardOpenOption.class"/>
+<editorState selectionHorizontalPixel="0" selectionLength="18" selectionOffset="317" selectionTopPixel="550"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TimeSpread2.java" partName="TimeSpread2.java" path="C:/Dass/Workspaces/Practise/JavaFuns/src/code/threads/TimeSpread2.java" title="TimeSpread2.java" tooltip="JavaFuns/src/code/threads/TimeSpread2.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/JavaFuns/src/code/threads/TimeSpread2.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1287" selectionTopPixel="55"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TimeSpread.java" partName="TimeSpread.java" path="C:/Dass/Workspaces/Practise/JavaFuns/src/code/threads/TimeSpread.java" title="TimeSpread.java" tooltip="JavaFuns/src/code/threads/TimeSpread.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/JavaFuns/src/code/threads/TimeSpread.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1065" selectionTopPixel="266"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Anagrams.java" partName="Anagrams.java" path="C:/Dass/Workspaces/Practise/JavaFuns/src/code/collections/Anagrams.java" title="Anagrams.java" tooltip="JavaFuns/src/code/collections/Anagrams.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/JavaFuns/src/code/collections/Anagrams.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="203" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TemplateHousingClient.java" partName="TemplateHousingClient.java" path="C:/Dass/Workspaces/Practise/JavaFuns/src/code/designpatterns/TemplateHousingClient.java" title="TemplateHousingClient.java" tooltip="JavaFuns/src/code/designpatterns/TemplateHousingClient.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/JavaFuns/src/code/designpatterns/TemplateHousingClient.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="63" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="FactoryMethodPattern.java" partName="FactoryMethodPattern.java" path="C:/Dass/Workspaces/Practise/JavaFuns/src/code/designpatterns/FactoryMethodPattern.java" title="FactoryMethodPattern.java" tooltip="JavaFuns/src/code/designpatterns/FactoryMethodPattern.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/JavaFuns/src/code/designpatterns/FactoryMethodPattern.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1277" selectionTopPixel="545"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="StateDesignPattern.java" partName="StateDesignPattern.java" path="C:/Dass/Workspaces/Practise/JavaFuns/src/code/designpatterns/StateDesignPattern.java" title="StateDesignPattern.java" tooltip="JavaFuns/src/code/designpatterns/StateDesignPattern.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/JavaFuns/src/code/designpatterns/StateDesignPattern.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="257" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="StrategyPattern.java" partName="StrategyPattern.java" path="C:/Dass/Workspaces/Practise/JavaFuns/src/code/designpatterns/StrategyPattern.java" title="StrategyPattern.java" tooltip="JavaFuns/src/code/designpatterns/StrategyPattern.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/JavaFuns/src/code/designpatterns/StrategyPattern.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="780" selectionTopPixel="170"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SimpleSchedulingExecutor.java" partName="SimpleSchedulingExecutor.java" path="C:/Users/user/Desktop/Myself/Codes/Kowshikp/big-o-master/java/src/concurrency/SimpleSchedulingExecutor.java" title="SimpleSchedulingExecutor.java" tooltip="big-o-java/src/concurrency/SimpleSchedulingExecutor.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/big-o-java/src/concurrency/SimpleSchedulingExecutor.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="5253" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ProducerConsumerProblem.java" partName="ProducerConsumerProblem.java" path="C:/Dass/Workspaces/Practise/JavaFuns/src/code/threads/ProducerConsumerProblem.java" title="ProducerConsumerProblem.java" tooltip="JavaFuns/src/code/threads/ProducerConsumerProblem.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/JavaFuns/src/code/threads/ProducerConsumerProblem.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="600" selectionTopPixel="515"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Cache.java" partName="Cache.java" path="C:/Users/user/Desktop/Myself/Codes/Kowshikp/big-o-master/java/src/cache/Cache.java" title="Cache.java" tooltip="big-o-java/src/cache/Cache.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/big-o-java/src/cache/Cache.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="LRUCache.java" partName="LRUCache.java" path="C:/Users/user/Desktop/Myself/Codes/Kowshikp/big-o-master/java/src/cache/LRUCache.java" title="LRUCache.java" tooltip="big-o-java/src/cache/LRUCache.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/big-o-java/src/cache/LRUCache.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1298" selectionTopPixel="2225"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="RobotMove.java" partName="RobotMove.java" path="C:/Users/user/Desktop/Myself/Codes/Kowshikp/big-o-master/java/src/dp/RobotMove.java" title="RobotMove.java" tooltip="big-o-java/src/dp/RobotMove.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/big-o-java/src/dp/RobotMove.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="190" selectionOffset="1033" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="RetrieveSentenceWithShuffledWords.java" partName="RetrieveSentenceWithShuffledWords.java" path="C:/Users/user/Desktop/Myself/Codes/Kowshikp/big-o-master/java/src/dp/RetrieveSentenceWithShuffledWords.java" title="RetrieveSentenceWithShuffledWords.java" tooltip="big-o-java/src/dp/RetrieveSentenceWithShuffledWords.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/big-o-java/src/dp/RetrieveSentenceWithShuffledWords.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="1205"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="EmptyHeapException.java" partName="EmptyHeapException.java" path="C:/Users/user/Desktop/Myself/Codes/Kowshikp/big-o-master/java/src/exceptions/EmptyHeapException.java" title="EmptyHeapException.java" tooltip="big-o-java/src/exceptions/EmptyHeapException.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/big-o-java/src/exceptions/EmptyHeapException.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="LexicographicalRanking.java" partName="LexicographicalRanking.java" path="C:/Users/user/Desktop/Myself/Codes/Kowshikp/big-o-master/java/src/general/LexicographicalRanking.java" title="LexicographicalRanking.java" tooltip="big-o-java/src/general/LexicographicalRanking.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/big-o-java/src/general/LexicographicalRanking.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="612" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="NumberOfZerosInFactorial.java" partName="NumberOfZerosInFactorial.java" path="C:/Users/user/Desktop/Myself/Codes/Kowshikp/big-o-master/java/src/general/NumberOfZerosInFactorial.java" title="NumberOfZerosInFactorial.java" tooltip="big-o-java/src/general/NumberOfZerosInFactorial.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/big-o-java/src/general/NumberOfZerosInFactorial.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="433" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="LRUCacheTest.java" partName="LRUCacheTest.java" path="C:/Users/user/Desktop/Myself/Codes/Kowshikp/big-o-master/java/tests/cache/LRUCacheTest.java" title="LRUCacheTest.java" tooltip="big-o-java/tests/cache/LRUCacheTest.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/big-o-java/tests/cache/LRUCacheTest.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="315" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DecoratorDesignPattern.java" partName="DecoratorDesignPattern.java" path="C:/Dass/Workspaces/Practise/JavaFuns/src/code/designpatterns/DecoratorDesignPattern.java" title="DecoratorDesignPattern.java" tooltip="JavaFuns/src/code/designpatterns/DecoratorDesignPattern.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/JavaFuns/src/code/designpatterns/DecoratorDesignPattern.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1764" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.ClassFileEditor" name="FileChannelImpl.class" partName="FileChannelImpl.class" title="FileChannelImpl.class" tooltip="sun.nio.ch.FileChannelImpl" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" org.eclipse.jdt.ui.ClassFileIdentifier="=CareerCup/C:\/Program Files\/Java\/jdk1.7.0\/jre\/lib\/rt.jar&lt;sun.nio.ch(FileChannelImpl.class"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SearchingTechniques.java" partName="SearchingTechniques.java" path="C:/Users/user/Desktop/Myself/Codes/Kowshikp/big-o-master/java/src/graphs/SearchingTechniques.java" title="SearchingTechniques.java" tooltip="big-o-java/src/graphs/SearchingTechniques.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/big-o-java/src/graphs/SearchingTechniques.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="3151" selectionTopPixel="785"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="GraphNode.java" partName="GraphNode.java" path="C:/Users/user/Desktop/Myself/Codes/Kowshikp/big-o-master/java/src/graphs/GraphNode.java" title="GraphNode.java" tooltip="big-o-java/src/graphs/GraphNode.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/big-o-java/src/graphs/GraphNode.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SpellChecker.java" partName="SpellChecker.java" path="C:/Users/user/Desktop/Myself/Codes/Kowshikp/big-o-master/java/src/graphs/SpellChecker.java" title="SpellChecker.java" tooltip="big-o-java/src/graphs/SpellChecker.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/big-o-java/src/graphs/SpellChecker.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="5" selectionOffset="2387" selectionTopPixel="290"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SocialNetworkConnectivity.java" partName="SocialNetworkConnectivity.java" path="C:/Users/user/Desktop/Myself/Codes/Kowshikp/big-o-master/java/src/graphs/SocialNetworkConnectivity.java" title="SocialNetworkConnectivity.java" tooltip="big-o-java/src/graphs/SocialNetworkConnectivity.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/big-o-java/src/graphs/SocialNetworkConnectivity.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="905" selectionTopPixel="270"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SimpleHeapImpl.java" partName="SimpleHeapImpl.java" path="C:/Users/user/Desktop/Myself/Codes/Kowshikp/big-o-master/java/src/sorting/SimpleHeapImpl.java" title="SimpleHeapImpl.java" tooltip="big-o-java/src/sorting/SimpleHeapImpl.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/big-o-java/src/sorting/SimpleHeapImpl.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="895" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BloodRelatives.java" partName="BloodRelatives.java" path="C:/Users/user/Desktop/Myself/Codes/Kowshikp/big-o-master/java/src/graphs/BloodRelatives.java" title="BloodRelatives.java" tooltip="big-o-java/src/graphs/BloodRelatives.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/big-o-java/src/graphs/BloodRelatives.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="622" selectionTopPixel="785"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="KnightsTour.java" partName="KnightsTour.java" path="C:/Users/user/Desktop/Myself/Codes/Kowshikp/big-o-master/java/src/general/KnightsTour.java" title="KnightsTour.java" tooltip="big-o-java/src/general/KnightsTour.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/big-o-java/src/general/KnightsTour.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="90" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BitUtils.java" partName="BitUtils.java" path="C:/Users/user/Desktop/Myself/Codes/Kowshikp/big-o-master/java/src/common/BitUtils.java" title="BitUtils.java" tooltip="big-o-java/src/common/BitUtils.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/big-o-java/src/common/BitUtils.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="438" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="StringUtils.java" partName="StringUtils.java" path="C:/Users/user/Desktop/Myself/Codes/Kowshikp/big-o-master/java/src/common/StringUtils.java" title="StringUtils.java" tooltip="big-o-java/src/common/StringUtils.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/big-o-java/src/common/StringUtils.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="277" selectionTopPixel="108"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ObserverPatternTest.java" partName="ObserverPatternTest.java" path="C:/Dass/Workspaces/Practise/JavaFuns/src/code/designpatterns/ObserverPatternTest.java" title="ObserverPatternTest.java" tooltip="JavaFuns/src/code/designpatterns/ObserverPatternTest.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/JavaFuns/src/code/designpatterns/ObserverPatternTest.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1438" selectionTopPixel="450"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BstCountTrees.java" partName="BstCountTrees.java" path="C:/Users/user/Desktop/Myself/Codes/Kowshikp/big-o-master/java/src/binarytrees/BstCountTrees.java" title="BstCountTrees.java" tooltip="big-o-java/src/binarytrees/BstCountTrees.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/big-o-java/src/binarytrees/BstCountTrees.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="863" selectionTopPixel="0"/>
+</editor>
+<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="WeightedUF.java" partName="WeightedUF.java" path="C:/Dass/Workspaces/Practise/Algorithms1/src/code/unionfind/WeightedUF.java" title="WeightedUF.java" tooltip="Algorithms1/src/code/unionfind/WeightedUF.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Algorithms1/src/code/unionfind/WeightedUF.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1102" selectionTopPixel="393"/>
+</editor>
+</editors>
+<views>
+<view id="org.eclipse.jdt.ui.TypeHierarchy" partName="Type Hierarchy">
+<viewState hidefields="false" hidelocaltypes="false" hidenonpublic="false" hidestatic="false" input="=big-o-java/C:\/Program Files\/Java\/jdk1.7.0\/jre\/lib\/rt.jar&lt;java.lang(IllegalArgumentException.class[IllegalArgumentException" link_editors="0" mv_vertical_scroll="0" orientation="3" qualified_names="0" ratio="350" selection="=big-o-java/C:\/Program Files\/Java\/jdk1.7.0\/jre\/lib\/rt.jar&lt;java.lang(IllegalArgumentException.class[IllegalArgumentException" showinherited="false" sortbydefiningtype="false" vertical_scroll="0" view="2" workingSetName=""/>
+</view>
+<view id="org.eclipse.search.ui.views.SearchView" partName="Search">
+<viewState isPinned="false">
+<view IMemento.internal.id="" org.eclipse.search.lastActivation="0"/>
+</viewState>
+</view>
+<view id="org.eclipse.debug.ui.DebugView" partName="Debug">
+<viewState/>
+</view>
+<view id="org.eclipse.debug.ui.BreakpointView" partName="Breakpoints">
+<viewState/>
+</view>
+<view id="org.eclipse.debug.ui.VariableView" partName="Variables">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.views.TaskList" partName="Tasks"/>
+<view id="org.eclipse.ui.views.ContentOutline" partName="Outline">
+<viewState/>
+</view>
+<view id="org.eclipse.debug.ui.ExpressionView" partName="Expressions">
+<viewState/>
+</view>
+<view id="com.android.ide.eclipse.ddms.views.LogCatView" partName="LogCat">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.views.ProblemView" partName="Problems">
+<viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
+<expanded>
+<category IMemento.internal.id="Warnings (29 items)"/>
+</expanded>
+<columnWidths org.eclipse.ui.ide.locationField="90" org.eclipse.ui.ide.markerType="90" org.eclipse.ui.ide.pathField="120" org.eclipse.ui.ide.resourceField="90" org.eclipse.ui.ide.severityAndDescriptionField="300"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.pathField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.locationField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.markerType"/>
+</viewState>
+</view>
+<view id="org.eclipse.ui.console.ConsoleView" partName="Console">
+<viewState/>
+</view>
+<view id="org.eclipse.jdt.ui.PackageExplorer" partName="Package Explorer">
+<viewState group_libraries="1" layout="2" linkWithEditor="0" rootMode="1" workingSetName="">
+<customFilters userDefinedPatternsEnabled="false">
+<xmlDefinedFilters>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.LibraryFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.LocalTypesFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.StaticsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.pde.ui.ExternalPluginLibrariesFilter1" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.ClosedProjectsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.NonSharedProjectsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.NonJavaElementFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.ContainedLibraryFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.CuAndClassFileFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.NonJavaProjectsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.internal.ui.PackageExplorer.EmptyInnerPackageFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.PackageDeclarationFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.internal.ui.PackageExplorer.EmptyPackageFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer_patternFilterId_RemoteSystemsConnections" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.ImportDeclarationFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.FieldsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.internal.ui.PackageExplorer.HideInnerClassFilesFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.NonPublicFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer_patternFilterId_.*" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.EmptyLibraryContainerFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer_patternFilterId_RemoteSystemsTempFiles" isEnabled="true"/>
+<child filterId="org.eclipse.pde.ui.BinaryProjectFilter1" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.SyntheticMembersFilter" isEnabled="true"/>
+<child filterId="org.eclipse.mylyn.java.ui.MembersFilter" isEnabled="false"/>
+</xmlDefinedFilters>
+</customFilters>
+</viewState>
+</view>
+<view id="org.eclipse.mylyn.tasks.ui.views.tasks" partName="Task List">
+<viewState linkWithEditor="true" presentation="org.eclipse.mylyn.tasks.ui.categorized">
+<sorter groupBy="CATEGORY_QUERY">
+<sorter>
+<sort0 sortDirection="1" sortKey="PRIORITY"/>
+<sort1 sortDirection="1" sortKey="RANK"/>
+<sort2 sortDirection="1" sortKey="DATE_CREATED"/>
+<sort3 sortDirection="1" sortKey="NONE"/>
+<sort4 sortDirection="1" sortKey="NONE"/>
+<sort5 sortDirection="1" sortKey="NONE"/>
+<sort6 sortDirection="1" sortKey="NONE"/>
+<sort7 sortDirection="1" sortKey="NONE"/>
+</sorter>
+</sorter>
+<filteredTreeFindHistory/>
+</viewState>
+</view>
+<view id="org.eclipse.jdt.ui.SourceView" partName="Declaration">
+<viewState/>
+</view>
+<view id="org.eclipse.jdt.ui.JavadocView" partName="Javadoc">
+<viewState/>
+</view>
+<view id="com.mountainminds.eclemma.ui.CoverageView" partName="Coverage">
+<viewState column0="300" column1="80" column2="167" column3="120" column4="120" counters="INSTRUCTION" hideunusedelements="false" linked="false" reversesort="true" roottype="GROUP" sortcolumn="3"/>
+</view>
+<view id="org.eclipse.wst.server.ui.ServersView" partName="Servers"/>
+</views>
+<perspectives activePart="org.eclipse.jdt.ui.CompilationUnitEditor" activePerspective="org.eclipse.jdt.ui.JavaPerspective">
+<perspective editorAreaTrimState="1" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.eclipse.jst.j2ee.internal.perspective.J2EEPerspective" id="org.eclipse.jst.j2ee.J2EEPerspective" label="Java EE"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.context.ui.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.doc.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.tasks.ui.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.rse.core.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="adt.actionSet.wizards"/>
+<alwaysOnActionSet id="adt.actionSet.refactorings"/>
+<alwaysOnActionSet id="adt.actionSet.avdManager"/>
+<alwaysOnActionSet id="adt.actionSet.lint"/>
+<alwaysOnActionSet id="org.eclipse.jst.j2ee.J2eeMainActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.ui.JavaActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.launchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+<alwaysOnActionSet id="org.eclipse.wst.server.ui.internal.webbrowser.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="org.eclipse.wst.ws.explorer.explorer"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.debugActionSet"/>
+<show_view_action id="org.eclipse.ui.navigator.ProjectExplorer"/>
+<show_view_action id="org.eclipse.wst.server.ui.ServersView"/>
+<show_view_action id="org.eclipse.datatools.connectivity.DataSourceExplorerNavigator"/>
+<show_view_action id="org.eclipse.ui.views.BookmarkView"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="org.eclipse.ui.views.PropertySheet"/>
+<show_view_action id="org.eclipse.ui.views.ResourceNavigator"/>
+<show_view_action id="org.eclipse.wst.common.snippets.internal.ui.SnippetsView"/>
+<show_view_action id="org.eclipse.ui.views.AllMarkersView"/>
+<show_view_action id="org.eclipse.mylyn.tasks.ui.views.tasks"/>
+<show_view_action id="org.eclipse.search.ui.views.SearchView"/>
+<show_view_action id="org.eclipse.ui.console.ConsoleView"/>
+<new_wizard_action id="org.eclipse.jpt.jpa.ui.wizard.newJpaProject"/>
+<new_wizard_action id="org.eclipse.jst.j2ee.ui.project.facet.EarProjectWizard"/>
+<new_wizard_action id="org.eclipse.jst.servlet.ui.project.facet.WebProjectWizard"/>
+<new_wizard_action id="org.eclipse.jst.ejb.ui.project.facet.EjbProjectWizard"/>
+<new_wizard_action id="org.eclipse.jst.j2ee.jca.ui.internal.wizard.ConnectorProjectWizard"/>
+<new_wizard_action id="org.eclipse.jst.j2ee.ui.project.facet.appclient.AppClientProjectWizard"/>
+<new_wizard_action id="org.eclipse.wst.web.ui.internal.wizards.SimpleWebProjectWizard"/>
+<new_wizard_action id="org.eclipse.jpt.ui.wizard.newJpaProject"/>
+<new_wizard_action id="org.eclipse.jst.servlet.ui.internal.wizard.AddServletWizard"/>
+<new_wizard_action id="org.eclipse.jst.ejb.ui.internal.wizard.AddSessionBeanWizard"/>
+<new_wizard_action id="org.eclipse.jst.ejb.ui.internal.wizard.AddMessageDrivenBeanWizard"/>
+<new_wizard_action id="org.eclipse.jpt.ui.wizard.newEntity"/>
+<new_wizard_action id="org.eclipse.jst.ws.creation.ui.wizard.serverwizard"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.folder"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.file"/>
+<perspective_action id="org.eclipse.jpt.ui.jpaPerspective"/>
+<perspective_action id="org.eclipse.debug.ui.DebugPerspective"/>
+<perspective_action id="org.eclipse.jdt.ui.JavaPerspective"/>
+<perspective_action id="org.eclipse.ui.resourcePerspective"/>
+<perspective_action id="org.eclipse.wst.web.ui.webDevPerspective"/>
+<hide_toolbar_item_id id="org.eclipse.jdt.ui.actions.OpenProjectWizard"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<fastViewBars>&#x0A;<fastViewBar fastViewLocation="131072" id="topRight" orientation="512" selectedTabId="org.eclipse.ui.views.ContentOutline" style="1">&#x0A;<fastViews>&#x0A;<view id="org.eclipse.ui.views.ContentOutline" ratio="0.3"/>
+<view id="org.eclipse.mylyn.tasks.ui.views.tasks" ratio="0.3"/>
+</fastViews>
+</fastViewBar>
+<fastViewBar fastViewLocation="1024" id="bottomRight" orientation="256" selectedTabId="org.eclipse.ui.console.ConsoleView" style="1">&#x0A;<fastViews>&#x0A;<view id="org.eclipse.ui.views.AllMarkersView" ratio="0.3"/>
+<view id="org.eclipse.ui.views.PropertySheet" ratio="0.3"/>
+<view id="org.eclipse.wst.server.ui.ServersView" ratio="0.3"/>
+<view id="org.eclipse.datatools.connectivity.DataSourceExplorerNavigator" ratio="0.3"/>
+<view id="org.eclipse.wst.common.snippets.internal.ui.SnippetsView" ratio="0.3"/>
+<view id="org.eclipse.ui.console.ConsoleView" ratio="0.3"/>
+<view id="org.eclipse.debug.ui.DebugView" ratio="0.3"/>
+</fastViews>
+</fastViewBar>
+<fastViewBar fastViewLocation="16384" id="topLeft" orientation="512" selectedTabId="org.eclipse.ui.navigator.ProjectExplorer" style="1">&#x0A;<fastViews>&#x0A;<view id="org.eclipse.ui.navigator.ProjectExplorer" ratio="0.3"/>
+</fastViews>
+</fastViewBar>
+</fastViewBars>
+<layout>&#x0A;<mainWindow>&#x0A;<info folder="true" part="topLeft">&#x0A;<folder appearance="2" expanded="0">&#x0A;<page content="org.eclipse.ui.navigator.ProjectExplorer" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ResourceNavigator" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.ui.TypeHierarchy" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.ui.PackagesView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@bacb18" ratio="0.75" ratioLeft="750" ratioRight="250" relationship="2" relative="topLeft">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.25" ratioLeft="250" ratioRight="750" relationship="2" relative="topLeft"/>
+<info folder="true" part="bottomRight" ratio="0.69860893" ratioLeft="452" ratioRight="195" relationship="4" relative="org.eclipse.ui.editorss">&#x0A;<folder appearance="2" expanded="0">&#x0A;<page content="org.eclipse.ui.views.AllMarkersView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.PropertySheet" label="LabelNotFound"/>
+<page content="org.eclipse.wst.server.ui.ServersView" label="LabelNotFound"/>
+<page content="org.eclipse.datatools.connectivity.DataSourceExplorerNavigator" label="LabelNotFound"/>
+<page content="org.eclipse.wst.common.snippets.internal.ui.SnippetsView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.console.ConsoleView" label="LabelNotFound"/>
+<page content="org.eclipse.debug.ui.DebugView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ProblemView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.TaskList" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ProgressView" label="LabelNotFound"/>
+<page content="org.eclipse.search.ui.views.SearchView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="topRight" ratio="0.7" ratioLeft="525" ratioRight="225" relationship="2" relative="org.eclipse.ui.editorss">&#x0A;<folder appearance="2" expanded="0">&#x0A;<page content="org.eclipse.ui.views.ContentOutline" label="LabelNotFound"/>
+<page content="org.eclipse.mylyn.tasks.ui.views.tasks" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.eclipse.jdt.internal.ui.JavaPerspectiveFactory" id="org.eclipse.jdt.ui.JavaPerspective" label="Java"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.context.ui.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.doc.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.tasks.ui.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.rse.core.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="adt.actionSet.wizards"/>
+<alwaysOnActionSet id="adt.actionSet.refactorings"/>
+<alwaysOnActionSet id="adt.actionSet.avdManager"/>
+<alwaysOnActionSet id="adt.actionSet.lint"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.launchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.ui.JavaActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.ui.JavaElementCreationActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.debug.ui.JDTDebugActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.junit.JUnitActionSet"/>
+<alwaysOnActionSet id="com.mountainminds.eclemma.ui.CoverageActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.debugActionSet"/>
+<show_view_action id="org.eclipse.jdt.ui.PackageExplorer"/>
+<show_view_action id="org.eclipse.jdt.ui.TypeHierarchy"/>
+<show_view_action id="org.eclipse.jdt.ui.SourceView"/>
+<show_view_action id="org.eclipse.jdt.ui.JavadocView"/>
+<show_view_action id="org.eclipse.search.ui.views.SearchView"/>
+<show_view_action id="org.eclipse.ui.console.ConsoleView"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="org.eclipse.ui.views.ProblemView"/>
+<show_view_action id="org.eclipse.ui.views.ResourceNavigator"/>
+<show_view_action id="org.eclipse.ui.views.TaskList"/>
+<show_view_action id="org.eclipse.ui.views.ProgressView"/>
+<show_view_action id="org.eclipse.ui.navigator.ProjectExplorer"/>
+<show_view_action id="org.eclipse.ui.texteditor.TemplatesView"/>
+<show_view_action id="org.eclipse.pde.runtime.LogView"/>
+<show_view_action id="org.eclipse.ant.ui.views.AntView"/>
+<show_view_action id="org.eclipse.mylyn.tasks.ui.views.tasks"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewPackageCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewClassCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewInterfaceCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewEnumCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewAnnotationCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewSourceFolderCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewSnippetFileCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewJavaWorkingSetWizard"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.folder"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.file"/>
+<new_wizard_action id="org.eclipse.ui.editors.wizards.UntitledTextFileWizard"/>
+<new_wizard_action id="com.android.ide.eclipse.adt.project.NewProjectWizard"/>
+<new_wizard_action id="com.android.ide.eclipse.editors.wizards.NewXmlFileWizard"/>
+<new_wizard_action id="org.eclipse.jdt.junit.wizards.NewTestCaseCreationWizard"/>
+<new_wizard_action id="org.eclipse.mylyn.tasks.ui.wizards.new.repository.task"/>
+<perspective_action id="org.eclipse.jdt.ui.JavaBrowsingPerspective"/>
+<perspective_action id="org.eclipse.debug.ui.DebugPerspective"/>
+<perspective_action id="com.android.ide.eclipse.ddms.Perspective"/>
+<perspective_action id="org.eclipse.wst.jsdt.ui.JavaPerspective"/>
+<hide_toolbar_item_id id="org.eclipse.jdt.ui.actions.OpenProjectWizard"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<view id="org.eclipse.ui.views.ProblemView"/>
+<view id="org.eclipse.jdt.ui.JavadocView"/>
+<view id="org.eclipse.jdt.ui.SourceView"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
+<view id="org.eclipse.search.ui.views.SearchView"/>
+<view id="org.eclipse.debug.ui.DebugView"/>
+<view id="com.mountainminds.eclemma.ui.CoverageView"/>
+<view id="org.eclipse.jdt.ui.PackageExplorer"/>
+<view id="org.eclipse.jdt.ui.TypeHierarchy"/>
+<view id="org.eclipse.mylyn.tasks.ui.views.tasks"/>
+<view id="org.eclipse.ui.views.ContentOutline"/>
+<fastViewBars/>
+<layout>
+<mainWindow>
+<info folder="true" part="left">
+<folder activePageID="org.eclipse.jdt.ui.PackageExplorer" appearance="2" expanded="2">
+<page content="org.eclipse.jdt.ui.PackageExplorer" label="Package Explorer"/>
+<page content="org.eclipse.jdt.ui.TypeHierarchy" label="Type Hierarchy"/>
+<page content="org.eclipse.ui.views.ResourceNavigator" label="LabelNotFound"/>
+<page content="org.eclipse.ui.navigator.ProjectExplorer" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.junit.ResultView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.75" ratioLeft="1194" ratioRight="398" relationship="2" relative="left">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.17054752" ratioLeft="271" ratioRight="1318" relationship="2" relative="left"/>
+<info folder="true" part="bottom" ratio="0.7553192" ratioLeft="568" ratioRight="184" relationship="4" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
+<page content="org.eclipse.jdt.ui.JavadocView" label="Javadoc"/>
+<page content="org.eclipse.jdt.ui.SourceView" label="Declaration"/>
+<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<page content="org.eclipse.search.ui.views.SearchView" label="Search"/>
+<page content="org.eclipse.debug.ui.DebugView" label="Debug"/>
+<page content="com.mountainminds.eclemma.ui.CoverageView" label="Coverage"/>
+<page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ProgressView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+<part id="5"/>
+<part id="6"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@2e01da" ratio="0.7726236" ratioLeft="1016" ratioRight="299" relationship="2" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.mylyn.tasks.ui.views.tasks" appearance="2" expanded="2">
+<page content="org.eclipse.mylyn.tasks.ui.views.tasks" label="Task List"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="right" ratio="0.5" ratioLeft="283" ratioRight="283" relationship="4" relative="org.eclipse.ui.internal.ViewStack@2e01da">
+<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
+<page content="org.eclipse.ui.texteditor.TemplatesView" label="LabelNotFound"/>
+<page content="org.eclipse.ant.ui.views.AntView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info part="org.eclipse.egit.ui.RepositoriesView" ratio="0.6" ratioLeft="453" ratioRight="302" relationship="4" relative="left"/>
+</mainWindow>
+</layout>
+</perspective>
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.eclipse.debug.internal.ui.DebugPerspectiveFactory" id="org.eclipse.debug.ui.DebugPerspective" label="Debug"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.context.ui.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.doc.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.tasks.ui.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.rse.core.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="adt.actionSet.wizards"/>
+<alwaysOnActionSet id="adt.actionSet.refactorings"/>
+<alwaysOnActionSet id="adt.actionSet.avdManager"/>
+<alwaysOnActionSet id="adt.actionSet.lint"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.launchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.debug.ui.JDTDebugActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.ui.JavaActionSet"/>
+<alwaysOnActionSet id="com.python.pydev.navigate.actionSet"/>
+<alwaysOnActionSet id="com.python.pydev.debug.actionSet"/>
+<alwaysOnActionSet id="org.python.pydev.exceptionBreakpoints"/>
+<alwaysOnActionSet id="org.python.pydev.pyPropertyTrace"/>
+<alwaysOnActionSet id="com.mountainminds.eclemma.ui.CoverageActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.debugActionSet"/>
+<show_view_action id="org.eclipse.debug.ui.DebugView"/>
+<show_view_action id="org.eclipse.debug.ui.VariableView"/>
+<show_view_action id="org.eclipse.debug.ui.BreakpointView"/>
+<show_view_action id="org.eclipse.debug.ui.ExpressionView"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="org.eclipse.ui.console.ConsoleView"/>
+<show_view_action id="org.eclipse.ui.views.TaskList"/>
+<show_view_action id="com.android.ide.eclipse.ddms.views.LogCatView"/>
+<show_view_action id="com.android.ide.eclipse.ddms.views.DeviceView"/>
+<show_view_action id="org.eclipse.ant.ui.views.AntView"/>
+<show_view_action id="org.eclipse.datatools.sqltools.result.resultView"/>
+<show_view_action id="org.eclipse.pde.runtime.LogView"/>
+<show_view_action id="org.eclipse.jdt.debug.ui.DisplayView"/>
+<perspective_action id="com.android.ide.eclipse.ddms.Perspective"/>
+<perspective_action id="org.eclipse.datatools.sqltools.sqleditor.perspectives.EditorPerspective"/>
+<perspective_action id="org.eclipse.jdt.ui.JavaPerspective"/>
+<perspective_action id="org.eclipse.jdt.ui.JavaBrowsingPerspective"/>
+<perspective_action id="org.eclipse.wst.jsdt.ui.JavaPerspective"/>
+<perspective_action id="org.eclipse.wst.xml.ui.perspective"/>
+<hide_toolbar_item_id id="org.eclipse.jdt.ui.actions.OpenProjectWizard"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
+<view id="org.eclipse.ui.views.TaskList"/>
+<view id="org.eclipse.debug.ui.DebugView"/>
+<view id="org.eclipse.wst.server.ui.ServersView"/>
+<view id="org.eclipse.jdt.ui.TypeHierarchy"/>
+<view id="org.eclipse.debug.ui.VariableView"/>
+<view id="org.eclipse.debug.ui.BreakpointView"/>
+<view id="org.eclipse.debug.ui.ExpressionView"/>
+<view id="org.eclipse.ui.views.ContentOutline"/>
+<view id="com.android.ide.eclipse.ddms.views.LogCatView"/>
+<fastViewBars/>
+<layout>&#x0A;<mainWindow>&#x0A;<info folder="true" part="org.eclipse.debug.internal.ui.NavigatorFolderView">&#x0A;<folder activePageID="org.eclipse.debug.ui.DebugView" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.debug.ui.DebugView" label="Debug"/>
+<page content="org.eclipse.wst.server.ui.ServersView" label="Servers"/>
+<page content="org.eclipse.jdt.ui.TypeHierarchy" label="Type Hierarchy"/>
+<page content="org.eclipse.ui.views.ResourceNavigator" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.ui.PackageExplorer" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.75" ratioLeft="1194" ratioRight="398" relationship="2" relative="org.eclipse.debug.internal.ui.NavigatorFolderView">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.debug.internal.ui.ConsoleFolderView" ratio="0.6981383" ratioLeft="525" ratioRight="227" relationship="4" relative="org.eclipse.debug.internal.ui.NavigatorFolderView">&#x0A;<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<page content="org.eclipse.ui.views.TaskList" label="Tasks"/>
+<page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.PropertySheet" label="LabelNotFound"/>
+<page content="org.eclipse.datatools.sqltools.result.resultView" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.debug.ui.DisplayView" label="LabelNotFound"/>
+<page content="org.eclipse.search.SearchResultView" label="LabelNotFound"/>
+<page content="org.eclipse.wst.xsl.jaxp.debug.ui.view1" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@1a3ebad" ratio="0.37759596" ratioLeft="600" ratioRight="989" relationship="2" relative="org.eclipse.debug.internal.ui.ConsoleFolderView">&#x0A;<folder activePageID="com.android.ide.eclipse.ddms.views.LogCatView" appearance="2" expanded="2">&#x0A;<page content="com.android.ide.eclipse.ddms.views.LogCatView" label="LogCat"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.37356323" ratioLeft="195" ratioRight="327" relationship="4" relative="org.eclipse.debug.internal.ui.NavigatorFolderView"/>
+<info folder="true" part="org.eclipse.debug.internal.ui.OutlineFolderView" ratio="0.75" ratioLeft="1194" ratioRight="398" relationship="2" relative="org.eclipse.ui.editorss">&#x0A;<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
+<page content="org.eclipse.ant.ui.views.AntView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.debug.internal.ui.ToolsFolderView" ratio="0.5" ratioLeft="796" ratioRight="796" relationship="2" relative="org.eclipse.debug.internal.ui.NavigatorFolderView">&#x0A;<folder activePageID="org.eclipse.debug.ui.ExpressionView" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.debug.ui.VariableView" label="Variables"/>
+<page content="org.eclipse.debug.ui.BreakpointView" label="Breakpoints"/>
+<page content="org.eclipse.debug.ui.ExpressionView" label="Expressions"/>
+<page content="org.eclipse.debug.ui.RegisterView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+</presentation>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+</perspectives>
+<workingSets/>
+<navigationHistory>
+<editors>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/big-o-java/src/general/KnightsTour.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/DSPuzzles/src/code/backtracking/KnightTour.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Cormen/src/Code/MergeSort.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/practise/src/code/A.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/DSPuzzles/src/code/ADT/DisjointSets.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/EPI/src/code/type/BitsSet.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/big-o-java/src/common/BitUtils.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/big-o-java/src/common/StringUtils.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/JavaFuns/src/code/designpatterns/ObserverPatternTest.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/big-o-java/src/arrays/CountInversions.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/big-o-java/src/binarytrees/BstCountTrees.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Algorithms1/src/code/unionfind/WeightedUF.java"/>
+</editors>
+<item historyLabel="KnightsTour.java" index="0">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="KnightTour.java" index="1">
+<position info="not_deleted" x="541" y="0"/>
+</item>
+<item historyLabel="MergeSort.java" index="2">
+<position info="not_deleted" x="663" y="0"/>
+</item>
+<item historyLabel="A.java" index="3">
+<position info="not_deleted" x="154" y="0"/>
+</item>
+<item historyLabel="MergeSort.java" index="2">
+<position info="not_deleted" x="565" y="0"/>
+</item>
+<item historyLabel="DisjointSets.java" index="4">
+<position info="not_deleted" x="1039" y="0"/>
+</item>
+<item historyLabel="BitsSet.java" index="5">
+<position info="not_deleted" x="196" y="0"/>
+</item>
+<item historyLabel="BitUtils.java" index="6">
+<position info="not_deleted" x="236" y="0"/>
+</item>
+<item historyLabel="StringUtils.java" index="7">
+<position info="not_deleted" x="277" y="0"/>
+</item>
+<item historyLabel="BitUtils.java" index="6">
+<position info="not_deleted" x="438" y="0"/>
+</item>
+<item historyLabel="BitsSet.java" index="5">
+<position info="not_deleted" x="196" y="0"/>
+</item>
+<item historyLabel="ObserverPatternTest.java" index="8">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="ObserverPatternTest.java" index="8">
+<position info="not_deleted" x="2775" y="10"/>
+</item>
+<item historyLabel="ObserverPatternTest.java" index="8">
+<position info="not_deleted" x="558" y="10"/>
+</item>
+<item historyLabel="CountInversions.java" index="9">
+<position info="not_deleted" x="1273" y="0"/>
+</item>
+<item historyLabel="BstCountTrees.java" index="10">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="WeightedUF.java" index="11">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="WeightedUF.java" index="11">
+<position info="not_deleted" x="132" y="0"/>
+</item>
+<item historyLabel="WeightedUF.java" index="11">
+<position info="not_deleted" x="193" y="0"/>
+</item>
+<item historyLabel="WeightedUF.java" index="11">
+<position info="not_deleted" x="244" y="0"/>
+</item>
+<item historyLabel="WeightedUF.java" index="11">
+<position info="not_deleted" x="280" y="0"/>
+</item>
+<item historyLabel="WeightedUF.java" index="11">
+<position info="not_deleted" x="346" y="0"/>
+</item>
+<item historyLabel="WeightedUF.java" index="11">
+<position info="not_deleted" x="369" y="0"/>
+</item>
+<item historyLabel="WeightedUF.java" index="11">
+<position info="not_deleted" x="369" y="0"/>
+</item>
+<item historyLabel="WeightedUF.java" index="11">
+<position info="not_deleted" x="435" y="0"/>
+</item>
+<item historyLabel="WeightedUF.java" index="11">
+<position info="not_deleted" x="1109" y="0"/>
+</item>
+<item historyLabel="WeightedUF.java" index="11">
+<position info="not_deleted" x="623" y="0"/>
+</item>
+<item historyLabel="WeightedUF.java" index="11">
+<position info="not_deleted" x="621" y="0"/>
+</item>
+<item historyLabel="WeightedUF.java" index="11">
+<position info="not_deleted" x="623" y="0"/>
+</item>
+<item historyLabel="WeightedUF.java" index="11">
+<position info="not_deleted" x="739" y="0"/>
+</item>
+<item historyLabel="WeightedUF.java" index="11">
+<position info="not_deleted" x="143" y="0"/>
+</item>
+<item historyLabel="WeightedUF.java" index="11">
+<position info="not_deleted" x="212" y="0"/>
+</item>
+<item historyLabel="WeightedUF.java" index="11">
+<position info="not_deleted" x="275" y="0"/>
+</item>
+<item historyLabel="WeightedUF.java" index="11">
+<position info="not_deleted" x="891" y="0"/>
+</item>
+<item historyLabel="WeightedUF.java" index="11">
+<position info="not_deleted" x="786" y="0"/>
+</item>
+<item historyLabel="WeightedUF.java" index="11">
+<position info="not_deleted" x="807" y="0"/>
+</item>
+<item historyLabel="WeightedUF.java" index="11">
+<position info="not_deleted" x="806" y="0"/>
+</item>
+<item historyLabel="WeightedUF.java" index="11">
+<position info="not_deleted" x="842" y="0"/>
+</item>
+<item historyLabel="WeightedUF.java" index="11">
+<position/>
+</item>
+<item historyLabel="WeightedUF.java" index="11">
+<position/>
+</item>
+<item historyLabel="WeightedUF.java" index="11">
+<position/>
+</item>
+<item historyLabel="WeightedUF.java" index="11">
+<position info="not_deleted" x="886" y="0"/>
+</item>
+<item historyLabel="WeightedUF.java" index="11">
+<position info="not_deleted" x="1105" y="0"/>
+</item>
+<item historyLabel="WeightedUF.java" index="11">
+<position info="not_deleted" x="994" y="0"/>
+</item>
+<item historyLabel="WeightedUF.java" index="11">
+<position info="not_deleted" x="1105" y="0"/>
+</item>
+<item historyLabel="WeightedUF.java" index="11">
+<position info="not_deleted" x="1102" y="0"/>
+</item>
+<item historyLabel="WeightedUF.java" index="11">
+<position info="not_deleted" x="1103" y="0"/>
+</item>
+<item historyLabel="WeightedUF.java" index="11">
+<position info="not_deleted" x="411" y="0"/>
+</item>
+<item historyLabel="WeightedUF.java" index="11">
+<position info="not_deleted" x="420" y="0"/>
+</item>
+<item active="true" historyLabel="WeightedUF.java" index="11">
+<position info="not_deleted" x="423" y="0"/>
+</item>
+</navigationHistory>
+<input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
+</page>
+<workbenchWindowAdvisor/>
+<actionBarAdvisor/>
+<trimLayout>
+<trimArea IMemento.internal.id="128">
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
+<trimItem IMemento.internal.id="org.eclipse.mylyn.tasks.ui.trim.container"/>
+</trimArea>
+<trimArea IMemento.internal.id="1024">
+<trimItem IMemento.internal.id="org.eclise.ui.internal.FastViewBar"/>
+<trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
+</trimArea>
+</trimLayout>
+</window>
+<mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="WeightedUF.java" tooltip="Algorithms1/src/code/unionfind/WeightedUF.java">
+<persistable path="/Algorithms1/src/code/unionfind/WeightedUF.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BstCountTrees.java" tooltip="big-o-java/src/binarytrees/BstCountTrees.java">
+<persistable path="/big-o-java/src/binarytrees/BstCountTrees.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ObserverPatternTest.java" tooltip="JavaFuns/src/code/designpatterns/ObserverPatternTest.java">
+<persistable path="/JavaFuns/src/code/designpatterns/ObserverPatternTest.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="StringUtils.java" tooltip="big-o-java/src/common/StringUtils.java">
+<persistable path="/big-o-java/src/common/StringUtils.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BitUtils.java" tooltip="big-o-java/src/common/BitUtils.java">
+<persistable path="/big-o-java/src/common/BitUtils.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="KnightsTour.java" tooltip="big-o-java/src/general/KnightsTour.java">
+<persistable path="/big-o-java/src/general/KnightsTour.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BloodRelatives.java" tooltip="big-o-java/src/graphs/BloodRelatives.java">
+<persistable path="/big-o-java/src/graphs/BloodRelatives.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SimpleHeapImpl.java" tooltip="big-o-java/src/sorting/SimpleHeapImpl.java">
+<persistable path="/big-o-java/src/sorting/SimpleHeapImpl.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SocialNetworkConnectivity.java" tooltip="big-o-java/src/graphs/SocialNetworkConnectivity.java">
+<persistable path="/big-o-java/src/graphs/SocialNetworkConnectivity.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SpellChecker.java" tooltip="big-o-java/src/graphs/SpellChecker.java">
+<persistable path="/big-o-java/src/graphs/SpellChecker.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="GraphNode.java" tooltip="big-o-java/src/graphs/GraphNode.java">
+<persistable path="/big-o-java/src/graphs/GraphNode.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SearchingTechniques.java" tooltip="big-o-java/src/graphs/SearchingTechniques.java">
+<persistable path="/big-o-java/src/graphs/SearchingTechniques.java"/>
+</file>
+<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="FileChannelImpl.class" tooltip="sun.nio.ch.FileChannelImpl">
+<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=CareerCup/C:\/Program Files\/Java\/jdk1.7.0\/jre\/lib\/rt.jar&lt;sun.nio.ch(FileChannelImpl.class"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DecoratorDesignPattern.java" tooltip="JavaFuns/src/code/designpatterns/DecoratorDesignPattern.java">
+<persistable path="/JavaFuns/src/code/designpatterns/DecoratorDesignPattern.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="LRUCacheTest.java" tooltip="big-o-java/tests/cache/LRUCacheTest.java">
+<persistable path="/big-o-java/tests/cache/LRUCacheTest.java"/>
+</file>
+</mruList>
+</workbench>

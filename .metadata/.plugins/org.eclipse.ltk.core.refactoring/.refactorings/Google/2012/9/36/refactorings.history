@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;code.BoyerMooreVoting&apos; to &apos;BoyceMooreVoting&apos;&#x0D;&#x0A;- Original project: &apos;Google&apos;&#x0D;&#x0A;- Original element: &apos;code.BoyerMooreVoting&apos;&#x0D;&#x0A;- Renamed element: &apos;code.BoyceMooreVoting&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;BoyerMooreVoting&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;code{BoyerMooreVoting.java[BoyerMooreVoting" matchStrategy="1" name="BoyceMooreVoting" qualified="false" references="true" similarDeclarations="false" stamp="1346729528695" textual="false" version="1.0"/>
+</session>

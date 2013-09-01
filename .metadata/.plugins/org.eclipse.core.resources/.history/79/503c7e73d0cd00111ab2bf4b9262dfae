@@ -1,0 +1,39 @@
+package code;
+
+import java.util.ArrayList;
+import java.util.Scanner;
+
+public class Median {
+	public static void main(String args[]) {
+		// helpers for input/output
+		Scanner in = new Scanner(System.in);
+		int N;
+		N = in.nextInt();
+
+		String s[] = new String[N];
+		int x[] = new int[N];
+		for (int i = 0; i < N; i++) {
+			s[i] = in.next();
+			x[i] = in.nextInt();
+		}
+
+		ArrayList<Integer> list = new ArrayList<Integer>();
+		for (int i = 0; i < N; i++) {
+			if (s[i].equals("a")) {
+				list.add(x[i]);
+				// Call median
+			} else {
+				if (!list.contains(x[i]))
+					System.out.println("WRONG!");
+				else {
+					list.remove(x[i]);
+					// call median
+				}
+			}
+		}
+		int result = 0;
+		System.out.println(result);
+
+	}
+
+}

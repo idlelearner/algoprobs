@@ -1,0 +1,17 @@
+package code;
+
+public class NoOfWaysClimbingBuilding {
+	public static void main(String[] args) {
+		NoOfWaysClimbingBuilding no = new NoOfWaysClimbingBuilding();
+		System.out.println(no.noOfWaysOfClimbing(5));
+	}
+
+	public int noOfWaysOfClimbing(int n) {
+		if (n == 0)
+			return 1;
+		if (n < 0)
+			return 0;
+		return noOfWaysOfClimbing(n - 1) + noOfWaysOfClimbing(n - 2);
+
+	}
+}

@@ -1,0 +1,47 @@
+package code.stack;
+
+import java.util.Stack;
+
+class StackItem {
+	public int height;
+	public int index;
+
+	public StackItem(int height, int index) {
+		this.height = height;
+		this.index = index;
+	}
+}
+
+public class MaxRectangleArea {
+	public static void main(String[] args) {
+
+	}
+
+	long maxRectangleArea(int A[]) {
+		int n = A.length;
+		long maxArea = 0;
+		if (A == null || A.length == 0)
+			return maxArea;
+		Stack<StackItem> S = new Stack<StackItem>();
+		S.push(new StackItem(Integer.MIN_VALUE, -1));
+		for (int i = 0; i <= n; i++) {
+			StackItem cur = new StackItem(i < n ? A[i] : Integer.MIN_VALUE, i);
+			if (cur.height > S.peek().height) {
+				S.push(cur);
+				continue;
+			}
+
+			while (S.size() > 1) {
+				StackItem prev = S.peek();
+				long area = (i - prev.index) * prev.height;
+				if (area > maxArea)
+					maxArea = area;
+				prev.height = cur.height;
+				if (prev.height > S.get(S.size() - 2).height)
+					break;
+				S.pop();
+			}
+		}
+		return maxArea;
+	}
+}

@@ -1,0 +1,22 @@
+package code.stack;
+
+import java.util.Stack;
+
+public class FindingSpans {
+
+	public static void main(String[] args) {
+		
+	}
+	
+	int[] findingSpans(int[] inputArray){
+		Stack<Integer> stack = new Stack<Integer>();
+		
+		int p=0;
+		for(int i=0;i<inputArray.length;i++)
+		{
+			while(!stack.isEmpty() && inputArray[i]>inputArray[stack.peek()]){
+				
+		}
+		return null;
+	}
+}

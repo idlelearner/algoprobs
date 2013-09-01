@@ -1,0 +1,9 @@
+package code.unionfind;
+
+public class WeightedUF {
+	int a[];
+
+	public WeightedUF(int N) {
+		a = new int[N];
+	}
+}

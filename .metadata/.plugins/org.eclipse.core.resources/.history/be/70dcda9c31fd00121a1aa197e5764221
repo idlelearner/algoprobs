@@ -1,0 +1,11 @@
+package code;
+
+public class SpecialCharacters {
+	public static void main(String[] args) {
+		System.out.println("\uff4f");
+		for (int i = Character.MIN_CODE_POINT; i <= Character.MAX_CODE_POINT; i++)
+			if (Character.isJavaIdentifierStart(i)
+					&& !Character.isAlphabetic(i))
+				System.out.println(i + " : " + (char) i);
+	}
+}

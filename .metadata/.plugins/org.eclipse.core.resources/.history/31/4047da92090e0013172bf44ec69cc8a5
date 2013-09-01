@@ -1,0 +1,46 @@
+package code.unionfind;
+
+public class WeightedUF {
+	int a[];
+	int s[];
+
+	public WeightedUF(int N) {
+		a = new int[N];
+		s = new int[N];
+		for (int i = 0; i < N; i++) {
+			a[i] = i;
+			s[i] = 1;
+		}
+	}
+
+	private int getRoot(int i) {
+		while (a[i] != i)
+			i = a[i];
+		return i;
+	}
+
+	private boolean find(int p, int q) {
+		return getRoot(p) == getRoot(q);
+	}
+
+	private void union(int p, int q) {
+		int i = getRoot(p);
+		int j = getRoot(q);
+		if (s[i] < s[j]) {
+			a[i] = j;
+			s[i] += s[j];
+		} else {
+			a[j] = i;
+			s[j] += s[i];
+		}
+	}
+
+	public static void main(String[] args) {
+		WeightedUF w = new WeightedUF(10);
+		w.union(1, 4);
+		w.union(4, 5);
+		w.union(7, 6);
+		w.union(4, 9);
+		System.out.println(w.find(4, 9));
+	}
+}

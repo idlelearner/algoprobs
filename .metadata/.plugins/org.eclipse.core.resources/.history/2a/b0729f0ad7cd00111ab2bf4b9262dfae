@@ -1,0 +1,90 @@
+package code;
+
+import java.util.ArrayList;
+import java.util.Scanner;
+
+public class Median {
+	public static void main(String args[]) {
+		// helpers for input/output
+		Scanner in = new Scanner(System.in);
+		int N;
+		N = in.nextInt();
+
+		String s[] = new String[N];
+		int x[] = new int[N];
+		for (int i = 0; i < N; i++) {
+			s[i] = in.next();
+			x[i] = in.nextInt();
+		}
+
+		ArrayList<Integer> list = new ArrayList<Integer>();
+		Median m = new Median();
+		for (int i = 0; i < N; i++) {
+			if (s[i].equals("a")) {
+				list.add(x[i]);
+				// Call median
+				m.findMedian(list);
+			} else {
+				if (!list.contains(x[i]))
+					System.out.println("Wrong!");
+				else {
+					list.remove(new Integer(x[i]));
+					// call median
+					if(list.isEmpty())
+						System.out.println("Wrong!");
+					else
+						m.findMedian(list);
+				}
+			}
+		}
+	}
+
+	//Function to find the median in the list
+	public void findMedian(ArrayList<Integer> list) {
+		int p = 0, r = list.size() - 1;
+		if (list.size() % 2 == 1) {
+			// Odd length
+			int medPos = p + (r - p) / 2;
+			int medianElmt = findNthElmt(list, p, r, medPos);
+			System.out.println(medianElmt);
+		} else {
+			// Even length medians
+			int m1 = (list.size())/2;
+			int m2 = m1+1;
+			int medianElmt1 = findNthElmt(list, p, r, m1 - 1);
+			int medianElmt2 = findNthElmt(list, p, r, m2 - 1);
+			double medianElmt = (double)(medianElmt1+medianElmt2)/2;
+			System.out.println(medianElmt);
+		}
+	}
+
+	int findNthElmt(ArrayList<Integer> list, int p, int r, int nPos) {
+		int piv = partition(list, p, r);
+		if (nPos == piv)
+			return list.get(nPos);
+		else if (piv > nPos)
+			return findNthElmt(list, p, piv - 1, nPos);
+		else
+			return findNthElmt(list, piv + 1, r, nPos);
+	}
+
+	int partition(ArrayList<Integer> list, int p, int r) {
+		// choosing the last elmt as pivot
+		int x = list.get(r);
+		int i = p - 1;
+		for (int j = p; j < r; j++) {
+			if (list.get(j) <= x) {
+				i++;
+				int temp = list.get(i);
+				list.set(i, list.get(j));
+				list.set(j, temp);
+			}
+		}
+		int temp = list.get(i + 1);
+		list.set(i + 1, list.get(r));
+		list.set(r, temp);
+
+		return i + 1;
+	}
+
+}

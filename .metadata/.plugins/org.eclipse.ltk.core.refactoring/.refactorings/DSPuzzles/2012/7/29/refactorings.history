@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;code.dynamocprogramming&apos; to &apos;code.dynamicprogramming&apos;&#x0D;&#x0A;- Original project: &apos;DSPuzzles&apos;&#x0D;&#x0A;- Original element: &apos;DSPuzzles/src/code.dynamocprogramming&apos;&#x0D;&#x0A;- Renamed element: &apos;DSPuzzles/src/code.dynamicprogramming&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;code.dynamocprogramming&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;code.dynamocprogramming" name="code.dynamicprogramming" qualified="false" references="true" stamp="1342852777249" textual="false" version="1.0"/>
+</session>

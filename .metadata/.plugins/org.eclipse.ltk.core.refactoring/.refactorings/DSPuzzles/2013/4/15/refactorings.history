@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;code.recursion.Factorail&apos; to &apos;Factorial&apos;&#x0D;&#x0A;- Original project: &apos;DSPuzzles&apos;&#x0D;&#x0A;- Original element: &apos;code.recursion.Factorail&apos;&#x0D;&#x0A;- Renamed element: &apos;code.recursion.Factorial&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Factorail&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;code.recursion{Factorail.java[Factorail" matchStrategy="1" name="Factorial" qualified="false" references="true" similarDeclarations="false" stamp="1365656060423" textual="false" version="1.0"/>
+</session>

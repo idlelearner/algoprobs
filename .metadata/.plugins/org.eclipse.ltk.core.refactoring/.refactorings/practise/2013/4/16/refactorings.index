@@ -1,0 +1,13 @@
+1366027606660	Copy compilation unit
+1366028039567	Rename method 'getUnVisitedAdjNode'
+1366038238734	Delete element
+1366038253099	Copy compilation unit
+1366097528021	Copy compilation unit
+1366097548312	Copy compilation unit
+1366097559114	Delete element
+1366172010083	Rename method 'differsByLetter'
+1366172278118	Rename local variable 'dictionary'
+1366172316087	Rename type 'ShortestPathWords'
+1366172356706	Rename type 'ShortestPathWordsAdjList'
+1366219147776	Copy compilation unit
+1366444643920	Infer generic type arguments

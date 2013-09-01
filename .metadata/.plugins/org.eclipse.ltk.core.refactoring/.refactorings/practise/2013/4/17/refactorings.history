@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename method &apos;code.ArrayToBinaryTree.calculcateSize(...)&apos; to &apos;calculateSize&apos;&#x0D;&#x0A;- Original project: &apos;practise&apos;&#x0D;&#x0A;- Original element: &apos;code.ArrayToBinaryTree.calculcateSize(...)&apos;&#x0D;&#x0A;- Renamed element: &apos;code.ArrayToBinaryTree.calculateSize(...)&apos;&#x0D;&#x0A;- Update references to refactored element" delegate="false" deprecate="false" description="Rename method &apos;calculcateSize&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.method" input="/src&lt;code{ArrayToBinaryTree.java[ArrayToBinaryTree~calculcateSize~QBinaryTree;" name="calculateSize" references="true" stamp="1367048586026" version="1.0"/>
+</session>

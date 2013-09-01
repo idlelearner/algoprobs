@@ -1,0 +1,15 @@
+package code;
+
+public class A {
+	public static void main(String[] s) {
+		System.out.println("Hello");
+	}
+
+	public static void main() {
+		System.out.println("Hello");
+	}
+
+	public static void main(int args[]) {
+		System.out.println("Hello");
+	}
+}

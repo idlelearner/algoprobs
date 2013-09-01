@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;code.dynamicprogramming.range&apos; to &apos;Range&apos;&#x0D;&#x0A;- Original project: &apos;DSPuzzles&apos;&#x0D;&#x0A;- Original element: &apos;code.dynamicprogramming.range&apos;&#x0D;&#x0A;- Renamed element: &apos;code.dynamicprogramming.Range&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;range&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;code.dynamicprogramming{MaxIntervalChain.java[range" matchStrategy="1" name="Range" qualified="false" references="true" similarDeclarations="false" stamp="1346592637011" textual="false" version="1.0"/>
+</session>
