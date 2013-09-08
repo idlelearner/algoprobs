@@ -4,6 +4,12 @@ import java.io.File;
 import java.util.Arrays;
 import java.util.LinkedList;
 
+/**
+ * Count the number of files in my workspace
+ * Just to know how much I practice :-)
+ * @author Dhass
+ *
+ */
 public class NoOfJavaFiles {
 	public static void main(String[] args) {
 		File f = new File("C:\\Dass\\Workspaces\\Practise\\");

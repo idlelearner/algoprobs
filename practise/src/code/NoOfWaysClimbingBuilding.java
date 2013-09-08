@@ -1,5 +1,11 @@
 package code;
 
+/**
+ * No. of ways to climb the building
+ * given the number of steps
+ * @author Dhass
+ * 
+ */
 public class NoOfWaysClimbingBuilding {
 	public static void main(String[] args) {
 		NoOfWaysClimbingBuilding no = new NoOfWaysClimbingBuilding();

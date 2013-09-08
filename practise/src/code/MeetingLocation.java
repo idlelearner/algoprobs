@@ -11,6 +11,14 @@ class Location {
 	}
 }
 
+/**
+ * Given the set of location 
+ * Find the point which could be the meeting point 
+ * for the people by travelling minimum distance
+ * 
+ * @author Dhass
+ * 
+ */
 public class MeetingLocation extends Location {
 
 	public int amountOfPeople;

@@ -1,0 +1,15 @@
+package code.ds;
+
+/**
+ * Implementation of stacks using Linked List
+ * 
+ * @author Dhass
+ * 
+ */
+public class StacksLL<T> {
+	class Node<T> {
+		T item;
+		Node<T> next;
+	}
+	
+}

@@ -1,5 +1,13 @@
 package code;
 
+import java.io.File;
+
+/**
+ * puzzle to check the value of r
+ * 
+ * @author Dhass
+ * 
+ */
 public class forloop {
 	public static void main(String[] args) {
 		int r = 0, n = 10;
@@ -8,5 +16,6 @@ public class forloop {
 				for (int k = 1; k <= j; k++)
 					r++;
 		System.out.println(r);
+
 	}
 }

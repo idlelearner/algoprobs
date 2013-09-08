@@ -1,5 +1,11 @@
 package code;
 
+/**
+ * OO impl of Binary Tree
+ * 
+ * @author Dhass
+ * 
+ */
 public class BinaryTree {
 	int data;
 	BinaryTree left;

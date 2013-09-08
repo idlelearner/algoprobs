@@ -1,0 +1,8 @@
+package code.sorts;
+
+public class InsertionSort {
+	public int[] sort(int a[]){
+	
+	return a[];
+}
+}

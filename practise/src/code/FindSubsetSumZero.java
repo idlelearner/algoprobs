@@ -1,5 +1,10 @@
 package code;
 
+/**
+ * Divide the set into subsets of equal sum
+ * @author Dhass
+ *
+ */
 public class FindSubsetSumZero {
 	public static void main(String[] args) {
 		int a[] = { 2, 5, 6, 3, 4 };
@@ -22,7 +27,6 @@ public class FindSubsetSumZero {
 		if (s > ts || i >= a.length)
 			return;
 
-		
 		in[j] = i;
 		s = s + a[i];
 		j++;

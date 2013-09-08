@@ -1,5 +1,10 @@
 package code;
 
+/**
+ * Binary search tree implementation
+ * @author Dhass
+ *
+ */
 public class BST {
 	BinaryTree root = new BinaryTree(2);
 
@@ -15,6 +20,7 @@ public class BST {
 		b.inOrderTraversal(b.root);
 	}
 
+	
 	BinaryTree construct() {
 		int a[] = { 4, 5, 6, 1, 3 };
 		for (int i = 0; i < a.length; i++)
@@ -22,6 +28,12 @@ public class BST {
 		return root;
 	}
 
+	/**
+	 * insert into BST
+	 * @param root
+	 * @param elmt
+	 * @return
+	 */
 	BinaryTree insert(BinaryTree root, int elmt) {
 		if (root == null) {
 			BinaryTree n = new BinaryTree(elmt);
@@ -35,6 +47,12 @@ public class BST {
 		return root;
 	}
 
+	/**
+	 * Delete from BST
+	 * @param root
+	 * @param elmt
+	 * @return
+	 */
 	BinaryTree delete(BinaryTree root, int elmt) {
 		if (root == null)
 			System.out.println("Elmt not present");
@@ -59,6 +77,11 @@ public class BST {
 		return root;
 	}
 
+	/**
+	 * Find max in BST
+	 * @param root
+	 * @return
+	 */
 	BinaryTree findMax(BinaryTree root) {
 		BinaryTree max = null;
 		while (root != null) {
@@ -68,6 +91,11 @@ public class BST {
 		return max;
 	}
 
+	/**
+	 * Inorder travesal for BST
+	 * Prints the values in sorted order
+	 * @param root
+	 */
 	public void inOrderTraversal(BinaryTree root) {
 		if (root != null) {
 			inOrderTraversal(root.left);

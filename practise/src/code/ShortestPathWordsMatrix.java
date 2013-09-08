@@ -8,8 +8,12 @@ import java.util.Arrays;
 import java.util.PriorityQueue;
 
 /**
+ * Finding transformation of a word into another.
+ * Given the dictionary of words.
+ * Words can be transformed to another by replacing,inserting,deleting a character
+ * and the transformed word at each step should be present in the dictionary 
  * Using shortest path algo
- * 
+ * and using adj matrix representation
  * @author Dhass
  * 
  */

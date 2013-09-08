@@ -1,5 +1,11 @@
 package code;
 
+/**
+ * Finding the longest palindrome in the given string
+ * Complexity O(n)
+ * @author Dhass
+ *
+ */
 public class LongestPalindrome {
 
 	public static void main(String[] args) {

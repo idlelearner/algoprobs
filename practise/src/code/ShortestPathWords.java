@@ -7,9 +7,14 @@ import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.PriorityQueue;
 
+
 /**
- * Minimum distance of words using shortest path algo
- * 
+ * Finding transformation of a word into another.
+ * Given the dictionary of words.
+ * Words can be transformed to another by replacing,inserting,deleting a character
+ * and the transformed word at each step should be present in the dictionary 
+ * Using shortest path algo
+ * and using adj list representation
  * @author Dhass
  * 
  */

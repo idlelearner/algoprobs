@@ -271,13 +271,16 @@
 <part id="229"/>
 <part id="230"/>
 <part id="231"/>
+<part id="232"/>
+<part id="233"/>
+<part id="234"/>
 </presentation>
 </folder>
 </info>
 </editorArea>
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="forloop.java" partName="forloop.java" path="C:/Dass/Workspaces/Practise/practise/src/code/forloop.java" title="forloop.java" tooltip="practise/src/code/forloop.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/practise/src/code/forloop.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="250" selectionTopPixel="0"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="345" selectionTopPixel="0"/>
 </editor>
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MergeSort.java" partName="MergeSort.java" path="C:/Dass/Workspaces/Practise/Cormen/src/Code/MergeSort.java" title="MergeSort.java" tooltip="Cormen/src/Code/MergeSort.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Cormen/src/Code/MergeSort.java"/>
@@ -285,11 +288,11 @@
 </editor>
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BinarySearch.java" partName="BinarySearch.java" path="C:/Dass/Workspaces/Practise/practise/src/code/BinarySearch.java" title="BinarySearch.java" tooltip="practise/src/code/BinarySearch.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/practise/src/code/BinarySearch.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="575" selectionTopPixel="0"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="77" selectionTopPixel="0"/>
 </editor>
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="A.java" partName="A.java" path="C:/Dass/Workspaces/Practise/practise/src/code/A.java" title="A.java" tooltip="practise/src/code/A.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/practise/src/code/A.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="154" selectionTopPixel="0"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="64" selectionTopPixel="0"/>
 </editor>
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TowersOfHanoi.java" partName="TowersOfHanoi.java" path="C:/Dass/Workspaces/Practise/DSPuzzles/src/code/recursion/TowersOfHanoi.java" title="TowersOfHanoi.java" tooltip="DSPuzzles/src/code/recursion/TowersOfHanoi.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DSPuzzles/src/code/recursion/TowersOfHanoi.java"/>
@@ -329,11 +332,11 @@
 </editor>
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Median.java" partName="Median.java" path="C:/Dass/Workspaces/Practise/InterviewStreet/src/code/Median.java" title="Median.java" tooltip="InterviewStreet/src/code/Median.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/InterviewStreet/src/code/Median.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1087" selectionTopPixel="838"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1948" selectionTopPixel="0"/>
 </editor>
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SetMedian.java" partName="SetMedian.java" path="C:/Dass/Workspaces/Practise/InterviewStreet/src/code/SetMedian.java" title="SetMedian.java" tooltip="InterviewStreet/src/code/SetMedian.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/InterviewStreet/src/code/SetMedian.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="955" selectionTopPixel="763"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="955" selectionTopPixel="360"/>
 </editor>
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Combinations.java" partName="Combinations.java" path="C:/Dass/Workspaces/Practise/DSPuzzles/src/code/string/Combinations.java" title="Combinations.java" tooltip="DSPuzzles/src/code/string/Combinations.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DSPuzzles/src/code/string/Combinations.java"/>
@@ -369,7 +372,7 @@
 </editor>
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="KDifference.java" partName="KDifference.java" path="C:/Dass/Workspaces/Practise/InterviewStreet/src/code/KDifference.java" title="KDifference.java" tooltip="InterviewStreet/src/code/KDifference.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/InterviewStreet/src/code/KDifference.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="774" selectionTopPixel="88"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="774" selectionTopPixel="0"/>
 </editor>
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="PowerOfTwo.java" partName="PowerOfTwo.java" path="C:/Dass/Workspaces/Practise/DSPuzzles/src/code/bitmanipulation/PowerOfTwo.java" title="PowerOfTwo.java" tooltip="DSPuzzles/src/code/bitmanipulation/PowerOfTwo.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DSPuzzles/src/code/bitmanipulation/PowerOfTwo.java"/>
@@ -447,13 +450,13 @@
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/InterviewStreet/src/code/StringReduction.java"/>
 <editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="348" selectionTopPixel="0"/>
 </editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="PlayGround.java" partName="PlayGround.java" path="C:/Dass/Workspaces/Practise/practise/src/code/PlayGround.java" title="PlayGround.java" tooltip="practise/src/code/PlayGround.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/practise/src/code/PlayGround.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="203" selectionTopPixel="0"/>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="LinkedListTest.java" partName="LinkedListTest.java" path="C:/Dass/Workspaces/Practise/practise/src/code/LinkedListTest.java" title="LinkedListTest.java" tooltip="practise/src/code/LinkedListTest.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/practise/src/code/LinkedListTest.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="122" selectionTopPixel="0"/>
 </editor>
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="StringSimilarity.java" partName="StringSimilarity.java" path="C:/Dass/Workspaces/Practise/InterviewStreet/src/code/StringSimilarity.java" title="StringSimilarity.java" tooltip="InterviewStreet/src/code/StringSimilarity.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/InterviewStreet/src/code/StringSimilarity.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="522" selectionTopPixel="103"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="522" selectionTopPixel="0"/>
 </editor>
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MinCostPath.java" partName="MinCostPath.java" path="C:/Dass/Workspaces/Practise/DSPuzzles/src/code/dynamicprogramming/MinCostPath.java" title="MinCostPath.java" tooltip="DSPuzzles/src/code/dynamicprogramming/MinCostPath.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DSPuzzles/src/code/dynamicprogramming/MinCostPath.java"/>
@@ -465,7 +468,7 @@
 </editor>
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MeetingLocation.java" partName="MeetingLocation.java" path="C:/Dass/Workspaces/Practise/practise/src/code/MeetingLocation.java" title="MeetingLocation.java" tooltip="practise/src/code/MeetingLocation.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/practise/src/code/MeetingLocation.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1061" selectionTopPixel="0"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1668" selectionTopPixel="243"/>
 </editor>
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ConstructTreeFromInorder.java" partName="ConstructTreeFromInorder.java" path="C:/Dass/Workspaces/Practise/DSPuzzles/src/code/trees/ConstructTreeFromInorder.java" title="ConstructTreeFromInorder.java" tooltip="DSPuzzles/src/code/trees/ConstructTreeFromInorder.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DSPuzzles/src/code/trees/ConstructTreeFromInorder.java"/>
@@ -493,7 +496,7 @@
 </editor>
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="CheckNPowerset.java" partName="CheckNPowerset.java" path="C:/Dass/Workspaces/Practise/practise/src/code/CheckNPowerset.java" title="CheckNPowerset.java" tooltip="practise/src/code/CheckNPowerset.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/practise/src/code/CheckNPowerset.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="401" selectionTopPixel="0"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="493" selectionTopPixel="0"/>
 </editor>
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="PrintParathesis.java" partName="PrintParathesis.java" path="C:/Dass/Workspaces/Practise/DSPuzzles/src/code/backtracking/PrintParathesis.java" title="PrintParathesis.java" tooltip="DSPuzzles/src/code/backtracking/PrintParathesis.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DSPuzzles/src/code/backtracking/PrintParathesis.java"/>
@@ -513,7 +516,7 @@
 </editor>
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BoyceMooreVoting.java" partName="BoyceMooreVoting.java" path="C:/Dass/Workspaces/Practise/Google/src/code/BoyceMooreVoting.java" title="BoyceMooreVoting.java" tooltip="Google/src/code/BoyceMooreVoting.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Google/src/code/BoyceMooreVoting.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="439" selectionTopPixel="0"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="468" selectionTopPixel="0"/>
 </editor>
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="LargestBSTInBinaryTree.java" partName="LargestBSTInBinaryTree.java" path="C:/Dass/Workspaces/Practise/DSPuzzles/src/code/trees/LargestBSTInBinaryTree.java" title="LargestBSTInBinaryTree.java" tooltip="DSPuzzles/src/code/trees/LargestBSTInBinaryTree.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DSPuzzles/src/code/trees/LargestBSTInBinaryTree.java"/>
@@ -521,7 +524,7 @@
 </editor>
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DictionaryWords.java" partName="DictionaryWords.java" path="C:/Dass/Workspaces/Practise/InterviewStreet/src/code/DictionaryWords.java" title="DictionaryWords.java" tooltip="InterviewStreet/src/code/DictionaryWords.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/InterviewStreet/src/code/DictionaryWords.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2728" selectionTopPixel="0"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1066" selectionTopPixel="2013"/>
 </editor>
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Denominations.java" partName="Denominations.java" path="C:/Dass/Workspaces/Practise/DSPuzzles/src/code/dynamicprogramming/Denominations.java" title="Denominations.java" tooltip="DSPuzzles/src/code/dynamicprogramming/Denominations.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DSPuzzles/src/code/dynamicprogramming/Denominations.java"/>
@@ -545,7 +548,7 @@
 </editor>
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Xor.java" partName="Xor.java" path="C:/Dass/Workspaces/Practise/practise/src/code/Xor.java" title="Xor.java" tooltip="practise/src/code/Xor.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/practise/src/code/Xor.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="121" selectionTopPixel="0"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="43" selectionTopPixel="0"/>
 </editor>
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BinomialCoefficients.java" partName="BinomialCoefficients.java" path="C:/Dass/Workspaces/Practise/InterviewStreet/src/code/BinomialCoefficients.java" title="BinomialCoefficients.java" tooltip="InterviewStreet/src/code/BinomialCoefficients.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/InterviewStreet/src/code/BinomialCoefficients.java"/>
@@ -673,7 +676,7 @@
 </editor>
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ShortestPathWords.java" partName="ShortestPathWords.java" path="C:/Dass/Workspaces/Practise/practise/src/code/ShortestPathWords.java" title="ShortestPathWords.java" tooltip="practise/src/code/ShortestPathWords.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/practise/src/code/ShortestPathWords.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="811" selectionTopPixel="0"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="506" selectionTopPixel="0"/>
 </editor>
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ShortestPathWords.java" partName="ShortestPathWords.java" path="C:/Dass/Workspaces/Practise/practise/src/code/ShortestPathWords.java" title="ShortestPathWords.java" tooltip="practise/src/code/ShortestPathWords.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/practise/src/code/ShortestPathWords.java"/>
@@ -681,11 +684,11 @@
 </editor>
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ArrayToBinaryTree.java" partName="ArrayToBinaryTree.java" path="C:/Dass/Workspaces/Practise/practise/src/code/ArrayToBinaryTree.java" title="ArrayToBinaryTree.java" tooltip="practise/src/code/ArrayToBinaryTree.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/practise/src/code/ArrayToBinaryTree.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1316" selectionTopPixel="405"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="353" selectionTopPixel="0"/>
 </editor>
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BinaryTree.java" partName="BinaryTree.java" path="C:/Dass/Workspaces/Practise/practise/src/code/BinaryTree.java" title="BinaryTree.java" tooltip="practise/src/code/BinaryTree.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/practise/src/code/BinaryTree.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="302" selectionTopPixel="0"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="47" selectionTopPixel="0"/>
 </editor>
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ShortestPathWordsWithInsertDelete.java" partName="ShortestPathWordsWithInsertDelete.java" path="C:/Dass/Workspaces/Practise/DSPuzzles/src/code/puzzles/ShortestPathWordsWithInsertDelete.java" title="ShortestPathWordsWithInsertDelete.java" tooltip="DSPuzzles/src/code/puzzles/ShortestPathWordsWithInsertDelete.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DSPuzzles/src/code/puzzles/ShortestPathWordsWithInsertDelete.java"/>
@@ -697,7 +700,7 @@
 </editor>
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MaxDistanceInArray.java" partName="MaxDistanceInArray.java" path="C:/Dass/Workspaces/Practise/practise/src/code/MaxDistanceInArray.java" title="MaxDistanceInArray.java" tooltip="practise/src/code/MaxDistanceInArray.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/practise/src/code/MaxDistanceInArray.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="521" selectionTopPixel="0"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="111" selectionTopPixel="0"/>
 </editor>
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SuffixTreeQuestion.java" partName="SuffixTreeQuestion.java" path="C:/Dass/Workspaces/Practise/DSPuzzles/src/code/string/SuffixTreeQuestion.java" title="SuffixTreeQuestion.java" tooltip="DSPuzzles/src/code/string/SuffixTreeQuestion.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DSPuzzles/src/code/string/SuffixTreeQuestion.java"/>
@@ -711,17 +714,13 @@
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DSPuzzles/src/code/trees/MirrorImage.java"/>
 <editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="893" selectionTopPixel="170"/>
 </editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ShortestPathWordsM.java" partName="ShortestPathWordsM.java" path="C:/Dass/Workspaces/Practise/practise/src/code/ShortestPathWordsM.java" title="ShortestPathWordsM.java" tooltip="practise/src/code/ShortestPathWordsM.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/practise/src/code/ShortestPathWordsM.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="735" selectionTopPixel="45"/>
-</editor>
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ShortestPathWordsMatrix.java" partName="ShortestPathWordsMatrix.java" path="C:/Dass/Workspaces/Practise/practise/src/code/ShortestPathWordsMatrix.java" title="ShortestPathWordsMatrix.java" tooltip="practise/src/code/ShortestPathWordsMatrix.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/practise/src/code/ShortestPathWordsMatrix.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="357" selectionTopPixel="3461"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="3531" selectionTopPixel="315"/>
 </editor>
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="PriorityQueueTest.java" partName="PriorityQueueTest.java" path="C:/Dass/Workspaces/Practise/practise/src/code/PriorityQueueTest.java" title="PriorityQueueTest.java" tooltip="practise/src/code/PriorityQueueTest.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/practise/src/code/PriorityQueueTest.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1051" selectionTopPixel="50"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="175" selectionTopPixel="0"/>
 </editor>
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="LongSeqSumZero.java" partName="LongSeqSumZero.java" path="C:/Dass/Workspaces/Practise/CareerCup/src/code/LongSeqSumZero.java" title="LongSeqSumZero.java" tooltip="CareerCup/src/code/LongSeqSumZero.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/CareerCup/src/code/LongSeqSumZero.java"/>
@@ -741,11 +740,11 @@
 </editor>
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="LRU.java" partName="LRU.java" path="C:/Dass/Workspaces/Practise/practise/src/code/LRU.java" title="LRU.java" tooltip="practise/src/code/LRU.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/practise/src/code/LRU.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="520" selectionTopPixel="340"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="807" selectionTopPixel="423"/>
 </editor>
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="NoOfWaysClimbingBuilding.java" partName="NoOfWaysClimbingBuilding.java" path="C:/Dass/Workspaces/Practise/practise/src/code/NoOfWaysClimbingBuilding.java" title="NoOfWaysClimbingBuilding.java" tooltip="practise/src/code/NoOfWaysClimbingBuilding.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/practise/src/code/NoOfWaysClimbingBuilding.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="393" selectionTopPixel="0"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="494" selectionTopPixel="0"/>
 </editor>
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="RegExMatching.java" partName="RegExMatching.java" path="C:/Dass/Workspaces/Practise/CareerCup/src/code/RegExMatching.java" title="RegExMatching.java" tooltip="CareerCup/src/code/RegExMatching.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/CareerCup/src/code/RegExMatching.java"/>
@@ -773,11 +772,11 @@
 </editor>
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BST.java" partName="BST.java" path="C:/Dass/Workspaces/Practise/practise/src/code/BST.java" title="BST.java" tooltip="practise/src/code/BST.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/practise/src/code/BST.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="645" selectionTopPixel="0"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2022" selectionTopPixel="1008"/>
 </editor>
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="PrintNodesAtDistanceK.java" partName="PrintNodesAtDistanceK.java" path="C:/Dass/Workspaces/Practise/practise/src/code/PrintNodesAtDistanceK.java" title="PrintNodesAtDistanceK.java" tooltip="practise/src/code/PrintNodesAtDistanceK.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/practise/src/code/PrintNodesAtDistanceK.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1602" selectionTopPixel="896"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="490" selectionTopPixel="318"/>
 </editor>
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="EditDistanceWithDifferentCost.java" partName="EditDistanceWithDifferentCost.java" path="C:/Dass/Workspaces/Practise/CareerCup/src/code/EditDistanceWithDifferentCost.java" title="EditDistanceWithDifferentCost.java" tooltip="CareerCup/src/code/EditDistanceWithDifferentCost.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/CareerCup/src/code/EditDistanceWithDifferentCost.java"/>
@@ -785,7 +784,7 @@
 </editor>
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="LongestPalindrome.java" partName="LongestPalindrome.java" path="C:/Dass/Workspaces/Practise/practise/src/code/LongestPalindrome.java" title="LongestPalindrome.java" tooltip="practise/src/code/LongestPalindrome.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/practise/src/code/LongestPalindrome.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="412" selectionTopPixel="155"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="622" selectionTopPixel="468"/>
 </editor>
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BinSearchFor01.java" partName="BinSearchFor01.java" path="C:/Dass/Workspaces/Practise/CareerCup/src/code/BinSearchFor01.java" title="BinSearchFor01.java" tooltip="CareerCup/src/code/BinSearchFor01.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/CareerCup/src/code/BinSearchFor01.java"/>
@@ -817,7 +816,7 @@
 </editor>
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="NoOfJavaFiles.java" partName="NoOfJavaFiles.java" path="C:/Dass/Workspaces/Practise/practise/src/code/NoOfJavaFiles.java" title="NoOfJavaFiles.java" tooltip="practise/src/code/NoOfJavaFiles.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/practise/src/code/NoOfJavaFiles.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="836" selectionTopPixel="0"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="678" selectionTopPixel="0"/>
 </editor>
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="FindMinInsertionFormPalindrome.java" partName="FindMinInsertionFormPalindrome.java" path="C:/Dass/Workspaces/Practise/DSPuzzles/src/code/dynamicprogramming/FindMinInsertionFormPalindrome.java" title="FindMinInsertionFormPalindrome.java" tooltip="DSPuzzles/src/code/dynamicprogramming/FindMinInsertionFormPalindrome.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DSPuzzles/src/code/dynamicprogramming/FindMinInsertionFormPalindrome.java"/>
@@ -833,7 +832,7 @@
 </editor>
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="FibinocciSeq.java" partName="FibinocciSeq.java" path="C:/Dass/Workspaces/Practise/practise/src/code/algo/dasgupta/FibinocciSeq.java" title="FibinocciSeq.java" tooltip="practise/src/code/algo/dasgupta/FibinocciSeq.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/practise/src/code/algo/dasgupta/FibinocciSeq.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="488" selectionTopPixel="0"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="782" selectionTopPixel="0"/>
 </editor>
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DisjointSets.java" partName="DisjointSets.java" path="C:/Dass/Workspaces/Practise/DSPuzzles/src/code/ADT/DisjointSets.java" title="DisjointSets.java" tooltip="DSPuzzles/src/code/ADT/DisjointSets.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/DSPuzzles/src/code/ADT/DisjointSets.java"/>
@@ -897,11 +896,11 @@
 </editor>
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="FindSubsetSumZero.java" partName="FindSubsetSumZero.java" path="C:/Dass/Workspaces/Practise/practise/src/code/FindSubsetSumZero.java" title="FindSubsetSumZero.java" tooltip="practise/src/code/FindSubsetSumZero.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/practise/src/code/FindSubsetSumZero.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1019" selectionTopPixel="325"/>
+<editorState selectionHorizontalPixel="0" selectionLength="7" selectionOffset="1107" selectionTopPixel="0"/>
 </editor>
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Complexity.java" partName="Complexity.java" path="C:/Dass/Workspaces/Practise/practise/src/code/Complexity.java" title="Complexity.java" tooltip="practise/src/code/Complexity.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/practise/src/code/Complexity.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="208" selectionTopPixel="0"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="52" selectionTopPixel="0"/>
 </editor>
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SpecialCharacters.java" partName="SpecialCharacters.java" path="C:/Dass/Workspaces/Practise/JavaFuns/src/code/SpecialCharacters.java" title="SpecialCharacters.java" tooltip="JavaFuns/src/code/SpecialCharacters.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/JavaFuns/src/code/SpecialCharacters.java"/>
@@ -1029,7 +1028,7 @@
 </editor>
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BinaryCode.java" partName="BinaryCode.java" path="C:/Dass/Workspaces/Practise/practise/src/code/BinaryCode.java" title="BinaryCode.java" tooltip="practise/src/code/BinaryCode.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/practise/src/code/BinaryCode.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="305" selectionTopPixel="0"/>
+<editorState selectionHorizontalPixel="0" selectionLength="7" selectionOffset="201" selectionTopPixel="0"/>
 </editor>
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BigArrayList.java" partName="BigArrayList.java" path="C:/Dass/Workspaces/Practise/JavaFuns/src/code/collections/BigArrayList.java" title="BigArrayList.java" tooltip="JavaFuns/src/code/collections/BigArrayList.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/JavaFuns/src/code/collections/BigArrayList.java"/>
@@ -1199,9 +1198,25 @@
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/big-o-java/src/binarytrees/BstCountTrees.java"/>
 <editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="863" selectionTopPixel="0"/>
 </editor>
-<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="WeightedUF.java" partName="WeightedUF.java" path="C:/Dass/Workspaces/Practise/Algorithms1/src/code/unionfind/WeightedUF.java" title="WeightedUF.java" tooltip="Algorithms1/src/code/unionfind/WeightedUF.java" workbook="DefaultEditorWorkbook">
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="WeightedUF.java" partName="WeightedUF.java" path="C:/Dass/Workspaces/Practise/Algorithms1/src/code/unionfind/WeightedUF.java" title="WeightedUF.java" tooltip="Algorithms1/src/code/unionfind/WeightedUF.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Algorithms1/src/code/unionfind/WeightedUF.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1102" selectionTopPixel="393"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="842" selectionTopPixel="183"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="StackLL.java" partName="StackLL.java" path="C:/Dass/Workspaces/Practise/Algorithms1/src/code/ds/StackLL.java" title="StackLL.java" tooltip="Algorithms1/src/code/ds/StackLL.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Algorithms1/src/code/ds/StackLL.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1245" selectionTopPixel="3"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Answer0toKRangeQuery.java" partName="Answer0toKRangeQuery.java" path="C:/Users/user/Desktop/Myself/Codes/Kowshikp/big-o-master/java/src/arrays/Answer0toKRangeQuery.java" title="Answer0toKRangeQuery.java" tooltip="Algo-probs/src/arrays/Answer0toKRangeQuery.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Algo-probs/src/arrays/Answer0toKRangeQuery.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Iterable.java" partName="Iterable.java" path="C:/Dass/Workspaces/Practise/Algorithms1/src/code/ds/Iterable.java" title="Iterable.java" tooltip="Algorithms1/src/code/ds/Iterable.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Algorithms1/src/code/ds/Iterable.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="93" selectionTopPixel="0"/>
+</editor>
+<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="StackArr.java" partName="StackArr.java" path="C:/Dass/Workspaces/Practise/Algorithms1/src/code/ds/StackArr.java" title="StackArr.java" tooltip="Algorithms1/src/code/ds/StackArr.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Algorithms1/src/code/ds/StackArr.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="361" selectionTopPixel="0"/>
 </editor>
 </editors>
 <views>
@@ -1235,7 +1250,8 @@
 <view id="org.eclipse.ui.views.ProblemView" partName="Problems">
 <viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
 <expanded>
-<category IMemento.internal.id="Warnings (29 items)"/>
+<category IMemento.internal.id="Warnings"/>
+<category IMemento.internal.id="Errors"/>
 </expanded>
 <columnWidths org.eclipse.ui.ide.locationField="90" org.eclipse.ui.ide.markerType="90" org.eclipse.ui.ide.pathField="120" org.eclipse.ui.ide.resourceField="90" org.eclipse.ui.ide.severityAndDescriptionField="300"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
@@ -1686,168 +1702,158 @@
 <workingSets/>
 <navigationHistory>
 <editors>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/big-o-java/src/general/KnightsTour.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/DSPuzzles/src/code/backtracking/KnightTour.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Cormen/src/Code/MergeSort.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/practise/src/code/A.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/DSPuzzles/src/code/ADT/DisjointSets.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/EPI/src/code/type/BitsSet.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/big-o-java/src/common/BitUtils.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/big-o-java/src/common/StringUtils.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/JavaFuns/src/code/designpatterns/ObserverPatternTest.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/big-o-java/src/arrays/CountInversions.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/big-o-java/src/binarytrees/BstCountTrees.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Algorithms1/src/code/unionfind/WeightedUF.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Algorithms1/src/code/ds/StackLL.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/Algorithms1/src/code/ds/StackArr.java"/>
 </editors>
-<item historyLabel="KnightsTour.java" index="0">
+<item historyLabel="StackLL.java" index="0">
+<position/>
+</item>
+<item historyLabel="StackLL.java" index="0">
+<position/>
+</item>
+<item historyLabel="StackLL.java" index="0">
+<position info="not_deleted" x="1616" y="0"/>
+</item>
+<item historyLabel="StackLL.java" index="0">
+<position info="not_deleted" x="1050" y="0"/>
+</item>
+<item historyLabel="StackLL.java" index="0">
+<position info="not_deleted" x="1171" y="0"/>
+</item>
+<item historyLabel="StackLL.java" index="0">
+<position info="not_deleted" x="1552" y="0"/>
+</item>
+<item historyLabel="StackLL.java" index="0">
+<position info="not_deleted" x="1245" y="0"/>
+</item>
+<item historyLabel="StackArr.java" index="1">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="KnightTour.java" index="1">
-<position info="not_deleted" x="541" y="0"/>
+<item historyLabel="StackArr.java" index="1">
+<position info="not_deleted" x="184" y="0"/>
 </item>
-<item historyLabel="MergeSort.java" index="2">
-<position info="not_deleted" x="663" y="0"/>
+<item historyLabel="StackArr.java" index="1">
+<position info="not_deleted" x="198" y="0"/>
 </item>
-<item historyLabel="A.java" index="3">
-<position info="not_deleted" x="154" y="0"/>
+<item historyLabel="StackArr.java" index="1">
+<position/>
 </item>
-<item historyLabel="MergeSort.java" index="2">
-<position info="not_deleted" x="565" y="0"/>
+<item historyLabel="StackArr.java" index="1">
+<position/>
 </item>
-<item historyLabel="DisjointSets.java" index="4">
-<position info="not_deleted" x="1039" y="0"/>
+<item historyLabel="StackArr.java" index="1">
+<position info="not_deleted" x="291" y="0"/>
 </item>
-<item historyLabel="BitsSet.java" index="5">
-<position info="not_deleted" x="196" y="0"/>
+<item historyLabel="StackArr.java" index="1">
+<position info="not_deleted" x="296" y="0"/>
 </item>
-<item historyLabel="BitUtils.java" index="6">
-<position info="not_deleted" x="236" y="0"/>
+<item historyLabel="StackArr.java" index="1">
+<position info="not_deleted" x="270" y="21"/>
 </item>
-<item historyLabel="StringUtils.java" index="7">
-<position info="not_deleted" x="277" y="0"/>
+<item historyLabel="StackArr.java" index="1">
+<position/>
 </item>
-<item historyLabel="BitUtils.java" index="6">
-<position info="not_deleted" x="438" y="0"/>
+<item historyLabel="StackArr.java" index="1">
+<position/>
 </item>
-<item historyLabel="BitsSet.java" index="5">
-<position info="not_deleted" x="196" y="0"/>
+<item historyLabel="StackArr.java" index="1">
+<position info="not_deleted" x="326" y="0"/>
 </item>
-<item historyLabel="ObserverPatternTest.java" index="8">
-<position info="not_deleted" x="0" y="0"/>
+<item historyLabel="StackArr.java" index="1">
+<position info="not_deleted" x="393" y="0"/>
 </item>
-<item historyLabel="ObserverPatternTest.java" index="8">
-<position info="not_deleted" x="2775" y="10"/>
+<item historyLabel="StackArr.java" index="1">
+<position info="not_deleted" x="569" y="0"/>
 </item>
-<item historyLabel="ObserverPatternTest.java" index="8">
-<position info="not_deleted" x="558" y="10"/>
+<item historyLabel="StackArr.java" index="1">
+<position info="not_deleted" x="639" y="0"/>
 </item>
-<item historyLabel="CountInversions.java" index="9">
-<position info="not_deleted" x="1273" y="0"/>
+<item historyLabel="StackArr.java" index="1">
+<position info="not_deleted" x="630" y="0"/>
 </item>
-<item historyLabel="BstCountTrees.java" index="10">
-<position info="not_deleted" x="0" y="0"/>
+<item historyLabel="StackArr.java" index="1">
+<position info="not_deleted" x="597" y="0"/>
 </item>
-<item historyLabel="WeightedUF.java" index="11">
-<position info="not_deleted" x="0" y="0"/>
+<item historyLabel="StackArr.java" index="1">
+<position info="not_deleted" x="712" y="0"/>
 </item>
-<item historyLabel="WeightedUF.java" index="11">
-<position info="not_deleted" x="132" y="0"/>
+<item historyLabel="StackArr.java" index="1">
+<position info="not_deleted" x="725" y="0"/>
 </item>
-<item historyLabel="WeightedUF.java" index="11">
-<position info="not_deleted" x="193" y="0"/>
+<item historyLabel="StackArr.java" index="1">
+<position info="not_deleted" x="826" y="0"/>
 </item>
-<item historyLabel="WeightedUF.java" index="11">
-<position info="not_deleted" x="244" y="0"/>
+<item historyLabel="StackArr.java" index="1">
+<position info="not_deleted" x="733" y="0"/>
 </item>
-<item historyLabel="WeightedUF.java" index="11">
-<position info="not_deleted" x="280" y="0"/>
+<item historyLabel="StackArr.java" index="1">
+<position info="not_deleted" x="732" y="0"/>
 </item>
-<item historyLabel="WeightedUF.java" index="11">
-<position info="not_deleted" x="346" y="0"/>
-</item>
-<item historyLabel="WeightedUF.java" index="11">
-<position info="not_deleted" x="369" y="0"/>
-</item>
-<item historyLabel="WeightedUF.java" index="11">
-<position info="not_deleted" x="369" y="0"/>
-</item>
-<item historyLabel="WeightedUF.java" index="11">
-<position info="not_deleted" x="435" y="0"/>
-</item>
-<item historyLabel="WeightedUF.java" index="11">
-<position info="not_deleted" x="1109" y="0"/>
-</item>
-<item historyLabel="WeightedUF.java" index="11">
-<position info="not_deleted" x="623" y="0"/>
-</item>
-<item historyLabel="WeightedUF.java" index="11">
-<position info="not_deleted" x="621" y="0"/>
-</item>
-<item historyLabel="WeightedUF.java" index="11">
-<position info="not_deleted" x="623" y="0"/>
-</item>
-<item historyLabel="WeightedUF.java" index="11">
-<position info="not_deleted" x="739" y="0"/>
-</item>
-<item historyLabel="WeightedUF.java" index="11">
-<position info="not_deleted" x="143" y="0"/>
-</item>
-<item historyLabel="WeightedUF.java" index="11">
-<position info="not_deleted" x="212" y="0"/>
-</item>
-<item historyLabel="WeightedUF.java" index="11">
-<position info="not_deleted" x="275" y="0"/>
-</item>
-<item historyLabel="WeightedUF.java" index="11">
-<position info="not_deleted" x="891" y="0"/>
-</item>
-<item historyLabel="WeightedUF.java" index="11">
+<item historyLabel="StackArr.java" index="1">
 <position info="not_deleted" x="786" y="0"/>
 </item>
-<item historyLabel="WeightedUF.java" index="11">
-<position info="not_deleted" x="807" y="0"/>
+<item historyLabel="StackArr.java" index="1">
+<position info="not_deleted" x="797" y="0"/>
 </item>
-<item historyLabel="WeightedUF.java" index="11">
-<position info="not_deleted" x="806" y="0"/>
+<item historyLabel="StackArr.java" index="1">
+<position info="not_deleted" x="808" y="0"/>
 </item>
-<item historyLabel="WeightedUF.java" index="11">
-<position info="not_deleted" x="842" y="0"/>
+<item historyLabel="StackArr.java" index="1">
+<position info="not_deleted" x="826" y="0"/>
 </item>
-<item historyLabel="WeightedUF.java" index="11">
-<position/>
+<item historyLabel="StackArr.java" index="1">
+<position info="not_deleted" x="729" y="26"/>
 </item>
-<item historyLabel="WeightedUF.java" index="11">
-<position/>
+<item historyLabel="StackArr.java" index="1">
+<position info="not_deleted" x="617" y="0"/>
 </item>
-<item historyLabel="WeightedUF.java" index="11">
-<position/>
+<item historyLabel="StackArr.java" index="1">
+<position info="not_deleted" x="436" y="0"/>
 </item>
-<item historyLabel="WeightedUF.java" index="11">
-<position info="not_deleted" x="886" y="0"/>
+<item historyLabel="StackArr.java" index="1">
+<position info="not_deleted" x="537" y="0"/>
 </item>
-<item historyLabel="WeightedUF.java" index="11">
-<position info="not_deleted" x="1105" y="0"/>
+<item historyLabel="StackArr.java" index="1">
+<position info="not_deleted" x="501" y="0"/>
 </item>
-<item historyLabel="WeightedUF.java" index="11">
-<position info="not_deleted" x="994" y="0"/>
+<item historyLabel="StackArr.java" index="1">
+<position info="not_deleted" x="525" y="0"/>
 </item>
-<item historyLabel="WeightedUF.java" index="11">
-<position info="not_deleted" x="1105" y="0"/>
+<item historyLabel="StackArr.java" index="1">
+<position info="not_deleted" x="463" y="0"/>
 </item>
-<item historyLabel="WeightedUF.java" index="11">
-<position info="not_deleted" x="1102" y="0"/>
+<item historyLabel="StackArr.java" index="1">
+<position info="not_deleted" x="1458" y="0"/>
 </item>
-<item historyLabel="WeightedUF.java" index="11">
-<position info="not_deleted" x="1103" y="0"/>
+<item historyLabel="StackArr.java" index="1">
+<position info="not_deleted" x="1265" y="0"/>
 </item>
-<item historyLabel="WeightedUF.java" index="11">
-<position info="not_deleted" x="411" y="0"/>
+<item historyLabel="StackArr.java" index="1">
+<position info="not_deleted" x="619" y="20"/>
 </item>
-<item historyLabel="WeightedUF.java" index="11">
-<position info="not_deleted" x="420" y="0"/>
+<item historyLabel="StackArr.java" index="1">
+<position info="not_deleted" x="852" y="0"/>
 </item>
-<item active="true" historyLabel="WeightedUF.java" index="11">
-<position info="not_deleted" x="423" y="0"/>
+<item historyLabel="StackArr.java" index="1">
+<position info="not_deleted" x="863" y="0"/>
+</item>
+<item historyLabel="StackArr.java" index="1">
+<position info="not_deleted" x="894" y="0"/>
+</item>
+<item historyLabel="StackArr.java" index="1">
+<position info="not_deleted" x="896" y="0"/>
+</item>
+<item historyLabel="StackArr.java" index="1">
+<position info="not_deleted" x="842" y="8"/>
+</item>
+<item historyLabel="StackArr.java" index="1">
+<position info="not_deleted" x="1095" y="0"/>
+</item>
+<item historyLabel="StackArr.java" index="1">
+<position info="not_deleted" x="1458" y="0"/>
+</item>
+<item active="true" historyLabel="StackArr.java" index="1">
+<position info="not_deleted" x="1372" y="0"/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -1867,6 +1873,18 @@
 </trimLayout>
 </window>
 <mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="StackArr.java" tooltip="Algorithms1/src/code/ds/StackArr.java">
+<persistable path="/Algorithms1/src/code/ds/StackArr.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Iterable.java" tooltip="Algorithms1/src/code/ds/Iterable.java">
+<persistable path="/Algorithms1/src/code/ds/Iterable.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Answer0toKRangeQuery.java" tooltip="Algo-probs/src/arrays/Answer0toKRangeQuery.java">
+<persistable path="/Algo-probs/src/arrays/Answer0toKRangeQuery.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="StacksLL.java" tooltip="Algorithms1/src/code/ds/StacksLL.java">
+<persistable path="/Algorithms1/src/code/ds/StacksLL.java"/>
+</file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="WeightedUF.java" tooltip="Algorithms1/src/code/unionfind/WeightedUF.java">
 <persistable path="/Algorithms1/src/code/unionfind/WeightedUF.java"/>
 </file>
@@ -1899,18 +1917,6 @@
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="GraphNode.java" tooltip="big-o-java/src/graphs/GraphNode.java">
 <persistable path="/big-o-java/src/graphs/GraphNode.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SearchingTechniques.java" tooltip="big-o-java/src/graphs/SearchingTechniques.java">
-<persistable path="/big-o-java/src/graphs/SearchingTechniques.java"/>
-</file>
-<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="FileChannelImpl.class" tooltip="sun.nio.ch.FileChannelImpl">
-<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=CareerCup/C:\/Program Files\/Java\/jdk1.7.0\/jre\/lib\/rt.jar&lt;sun.nio.ch(FileChannelImpl.class"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DecoratorDesignPattern.java" tooltip="JavaFuns/src/code/designpatterns/DecoratorDesignPattern.java">
-<persistable path="/JavaFuns/src/code/designpatterns/DecoratorDesignPattern.java"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="LRUCacheTest.java" tooltip="big-o-java/tests/cache/LRUCacheTest.java">
-<persistable path="/big-o-java/tests/cache/LRUCacheTest.java"/>
 </file>
 </mruList>
 </workbench>

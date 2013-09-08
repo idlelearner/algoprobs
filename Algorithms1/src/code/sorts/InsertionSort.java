@@ -1,0 +1,33 @@
+package code.sorts;
+
+import java.util.Arrays;
+
+/**
+ * Insertion sort implementation For each iteration swap if the element before
+ * it is smaller
+ * 
+ * @author Dhass
+ * 
+ */
+public class InsertionSort {
+	public int[] sort(int a[]) {
+		int l = a.length;
+		int j = 0;
+		for (int i = 0; i < l - 1; i++) {
+			j = i + 1;
+			while (j > 0 && a[j] < a[j - 1]) {
+				a[j] ^= a[j - 1];
+				a[j - 1] ^= a[j];
+				a[j] ^= a[j - 1];
+				j--;
+			}
+		}
+		return a;
+	}
+
+	public static void main(String[] args) {
+		InsertionSort s = new InsertionSort();
+		int a[] = { 5, 3, 7, 6, 4, 1 };
+		System.out.println(Arrays.toString(s.sort(a)));
+	}
+}

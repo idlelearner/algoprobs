@@ -1,5 +1,11 @@
 package code;
 
+/**
+ * Test for complexity
+ * Its sqrt of n
+ * @author Dhass
+ *
+ */
 public class Complexity {
 	public static void main(String[] args) {
 		int n = 100;

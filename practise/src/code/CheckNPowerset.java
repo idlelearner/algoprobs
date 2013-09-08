@@ -3,7 +3,9 @@ package code;
 /**
  * http://www.careercup.com/question?id=14473915 
  * Number of binary numbers
- * possible with size N - Condition 0 should be followed by 1
+ * possible with size N 
+ * Condition 0 should be followed by 1
+ * 
  * @author Dhass
  * 
  */

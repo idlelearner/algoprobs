@@ -3,7 +3,7 @@ package code;
 /**
  * binary search using recursion
  * 
- * @author user
+ * @author Dhass
  * 
  */
 public class BinarySearch {

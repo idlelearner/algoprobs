@@ -1,5 +1,10 @@
 package code;
 
+/**
+ * Classes with more than one main methods
+ * @author Dhass
+ *
+ */
 public class A {
 	public static void main(String[] s) {
 		System.out.println("Hellostr");

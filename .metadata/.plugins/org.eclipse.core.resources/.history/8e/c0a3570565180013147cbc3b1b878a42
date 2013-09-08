@@ -1,0 +1,23 @@
+package code.sorts;
+
+public class SelectionSort {
+
+	public int[] sort(int a[]) {
+		int l = a.length;
+		for (int i = 0; i < l; i++) {
+			int min = i;
+			for (int j = i; j < l; j++) {
+				if (a[min] > a[j])
+					min = j;
+			}
+			a[i] ^= a[min];
+			a[min] ^= a[i];
+			a[i] ^= a[min];
+		}
+		return a;
+	}
+
+	public static void main(String[] args) {
+		int a[] = { 4, 6, 1, 1, 3, 9 };
+	}
+}

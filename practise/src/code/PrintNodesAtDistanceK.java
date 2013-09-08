@@ -3,10 +3,15 @@ package code;
 import java.util.LinkedList;
 import java.util.Queue;
 
+/**
+ * Print the nodes all the nodes at distance K
+ * from the given node
+ * @author Dhass
+ *
+ */
 public class PrintNodesAtDistanceK {
 
 	BinaryTree b;
-
 	public static void main(String[] args) {
 
 		PrintNodesAtDistanceK a = new PrintNodesAtDistanceK();

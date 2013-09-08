@@ -2,6 +2,12 @@ package code;
 
 import java.util.TreeSet;
 
+/**
+ * Find the max distance of the same elmt in the given array
+ * 
+ * @author Dhass
+ * 
+ */
 public class MaxDistanceInArray {
 	public static void main(String[] args) {
 		MaxDistanceInArray m = new MaxDistanceInArray();

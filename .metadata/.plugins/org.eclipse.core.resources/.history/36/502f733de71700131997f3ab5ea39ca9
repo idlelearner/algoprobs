@@ -1,0 +1,17 @@
+package code.ds;
+
+/**
+ * Implementation of stacks using array.
+ * Size of the array will be resized in power of 2
+ * @author Dhass
+ *
+ * @param <T>
+ */
+public class StackArr<T> {
+	T elmts[];
+	
+	@SuppressWarnings("unchecked")
+	public StackArr(){
+		elmts = (T[]) new Object[1];
+	}
+}

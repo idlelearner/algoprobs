@@ -1,0 +1,11 @@
+package code.sorts;
+
+public class InsertionSort {
+	public int[] sort(int a[]) {
+		int l = a.length;
+		for (int i = 0; i < l; i++) {
+
+		}
+		return a;
+	}
+}

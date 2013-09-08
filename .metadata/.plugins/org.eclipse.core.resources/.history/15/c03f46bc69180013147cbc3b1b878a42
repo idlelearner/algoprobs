@@ -1,0 +1,5 @@
+package code.sorts;
+
+public class InsertionSort {
+
+}

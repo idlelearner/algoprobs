@@ -1,0 +1,87 @@
+package code.ds;
+
+import java.util.Iterator;
+import java.util.ListIterator;
+
+/**
+ * Implementation of stacks using array. Size of the array will be resized in
+ * power of 2
+ * 
+ * @author Dhass
+ * 
+ * @param <T>
+ */
+public class StackArr<T> implements Iterable<T> {
+	T elmts[];
+	int N = 0;
+
+	@SuppressWarnings("unchecked")
+	public StackArr() {
+		elmts = (T[]) new Object[1];
+	}
+
+	public boolean isEmpty() {
+		return N == 0;
+	}
+
+	public T pop() {
+		T item = elmts[--N];
+		if (N > 0 && N == elmts.length / 4)
+			resize(N / 2);
+		return item;
+	}
+
+	public void push(T item) {
+		if (N == elmts.length)
+			resize(2 * N);
+		elmts[N++] = item;
+	}
+
+	@SuppressWarnings("unchecked")
+	public void resize(int capacity) {
+		T tmp[] = (T[]) new Object[capacity];
+		for (int i = 0; i < N; i++)
+			tmp[i] = elmts[i];
+		elmts = tmp;
+	}
+
+	public Iterator<T> iterator() {
+		return new ListIterator();
+	}
+
+	private class ListIterator implements Iterator<T> {
+		int i = 0;
+
+		@Override
+		public boolean hasNext() {
+			return (N < i);
+		}
+
+		@Override
+		public T next() {
+			i++;
+			return elmts[i];
+		}
+
+		@Override
+		public void remove() {
+			/*
+			 * Not supported
+			 */
+		}
+
+	}
+
+	public static void main(String[] args) {
+		StackArr<Integer> s = new StackArr<>();
+		s.push(1);
+		s.push(2);
+		System.out.println(s.pop());
+		s.push(3);
+		Iterator<Integer> it = s.iterator();
+		while (it.hasNext()) {
+			System.out.println(it.next());
+			
+		}
+	}
+}

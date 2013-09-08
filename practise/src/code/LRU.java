@@ -3,6 +3,12 @@ package code;
 import java.util.LinkedHashMap;
 import java.util.Map;
 
+/**
+ * Implementation of LRU cache using linked hash map
+ * 
+ * @author Dhass
+ * 
+ */
 public class LRU {
 
 	private static final int MAX_ENTRIES = 3;
@@ -16,7 +22,8 @@ public class LRU {
 		// Override this , if it returns true the eldest entry in the map is
 		// removed
 		@Override
-		protected boolean removeEldestEntry(Map.Entry eldest) {
+		protected boolean removeEldestEntry(
+				@SuppressWarnings("rawtypes") Map.Entry eldest) {
 			return m.size() > MAX_ENTRIES;
 		}
 	};

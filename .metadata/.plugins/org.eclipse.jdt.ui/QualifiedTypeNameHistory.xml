@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="code.fourfiftythree.TheSoccerDivTwo"/>
-<fullyQualifiedTypeName name="java.lang.Math"/>
-<fullyQualifiedTypeName name="code.FourFiftyTreePointFive.MazeMaker"/>
-<fullyQualifiedTypeName name="code.FourFiftyTreePointFive.TheProduct"/>
-<fullyQualifiedTypeName name="code.FindSubsetSumZero"/>
-<fullyQualifiedTypeName name="java.lang.Runnable"/>
 <fullyQualifiedTypeName name="code.fourfiftyfive.SpidersOnTheGrid"/>
 <fullyQualifiedTypeName name="java.util.ArrayDeque"/>
 <fullyQualifiedTypeName name="code.fourfiftyfive.EasySequence"/>
@@ -15,14 +9,12 @@
 <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
 <fullyQualifiedTypeName name="java.lang.Integer"/>
 <fullyQualifiedTypeName name="code.FibinacciGeneration"/>
-<fullyQualifiedTypeName name="java.lang.Exception"/>
 <fullyQualifiedTypeName name="code.SpecialCharacters"/>
 <fullyQualifiedTypeName name="java.util.TreeMap"/>
 <fullyQualifiedTypeName name="java.util.SortedMap"/>
 <fullyQualifiedTypeName name="java.util.HashMap"/>
 <fullyQualifiedTypeName name="java.util.NavigableSet"/>
 <fullyQualifiedTypeName name="java.util.concurrent.ConcurrentSkipListSet"/>
-<fullyQualifiedTypeName name="java.util.ListIterator"/>
 <fullyQualifiedTypeName name="code.collections.ListIteratorAdd"/>
 <fullyQualifiedTypeName name="java.util.LinkedList"/>
 <fullyQualifiedTypeName name="java.util.concurrent.Executors"/>
@@ -40,7 +32,6 @@
 <fullyQualifiedTypeName name="code.collections.Anagrams"/>
 <fullyQualifiedTypeName name="java.util.concurrent.Semaphore"/>
 <fullyQualifiedTypeName name="java.util.BitSet"/>
-<fullyQualifiedTypeName name="java.io.File"/>
 <fullyQualifiedTypeName name="java.io.IOException"/>
 <fullyQualifiedTypeName name="java.nio.file.Paths"/>
 <fullyQualifiedTypeName name="java.net.HttpURLConnection"/>
@@ -60,4 +51,13 @@
 <fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="code.unionfind.WeightedUF"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="code.ds.StacksLL"/>
+<fullyQualifiedTypeName name="code.ds.StacksLL.Node"/>
+<fullyQualifiedTypeName name="java.lang.Exception"/>
+<fullyQualifiedTypeName name="code.ds.StackLL"/>
+<fullyQualifiedTypeName name="code.ds.StackArr"/>
+<fullyQualifiedTypeName name="java.util.Iterator"/>
+<fullyQualifiedTypeName name="java.util.ListIterator"/>
+<fullyQualifiedTypeName name="code.ds.Iterable"/>
 </qualifiedTypeNameHistroy>

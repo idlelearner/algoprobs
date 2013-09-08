@@ -1,8 +1,16 @@
 package code;
 
+/**
+ * Convert an array to a balanced binaryTree and other traversals on the tree.
+ * If the given array is sorted,it will build a BST
+ * 
+ * @author Dhass
+ * 
+ */
 public class ArrayToBinaryTree {
 	BinaryTree b;
 
+	// Test main method
 	public static void main(String[] args) {
 		ArrayToBinaryTree a = new ArrayToBinaryTree();
 		int arr[] = { 1, 2, 3, 4, 5, 6, 7 };
@@ -22,6 +30,11 @@ public class ArrayToBinaryTree {
 
 	}
 
+	/**
+	 * Inorder traversal to print the tree
+	 * 
+	 * @param root
+	 */
 	public void inOrderTraversal(BinaryTree root) {
 		if (root != null) {
 			inOrderTraversal(root.left);
@@ -30,6 +43,11 @@ public class ArrayToBinaryTree {
 		}
 	}
 
+	/**
+	 * Inorder traversal printing the size below the current node
+	 * 
+	 * @param root
+	 */
 	public void inOrderTraversalWithSize(BinaryTree root) {
 		if (root != null) {
 			inOrderTraversalWithSize(root.left);
@@ -38,6 +56,14 @@ public class ArrayToBinaryTree {
 		}
 	}
 
+	/**
+	 * creates the binary tree from array
+	 * 
+	 * @param a
+	 * @param low
+	 * @param high
+	 * @return
+	 */
 	public BinaryTree createTree(int a[], int low, int high) {
 		if (low <= high) {
 			int mid = (low + high) / 2;
@@ -49,6 +75,13 @@ public class ArrayToBinaryTree {
 			return null;
 	}
 
+	/**
+	 * prints the path from root to the given node
+	 * 
+	 * @param root
+	 * @param n
+	 * @return
+	 */
 	public boolean printpathToElmt(BinaryTree root, int n) {
 		if (root != null) {
 			if (root.data == n || printpathToElmt(root.getLeft(), n)
@@ -61,6 +94,10 @@ public class ArrayToBinaryTree {
 		return false;
 	}
 
+	/**
+	 * Changes the tree's nodes to the sum of the value of the nodes in post
+	 * order traversal
+	 */
 	int sum = 0;
 
 	public void changeTree(BinaryTree root) {
@@ -72,6 +109,14 @@ public class ArrayToBinaryTree {
 		}
 	}
 
+	/**
+	 * Trims the tree for the given min and max node
+	 * 
+	 * @param root
+	 * @param min
+	 * @param max
+	 * @return
+	 */
 	public BinaryTree trimBST(BinaryTree root, int min, int max) {
 		if (root == null)
 			return root;
@@ -84,6 +129,12 @@ public class ArrayToBinaryTree {
 		return root;
 	}
 
+	/**
+	 * Calculates number of nodes in tree
+	 * 
+	 * @param root
+	 * @return
+	 */
 	public int calculateSize(BinaryTree root) {
 		if (root == null)
 			return 0;
@@ -91,6 +142,13 @@ public class ArrayToBinaryTree {
 		return root.size;
 	}
 
+	/**
+	 * Prints the Kth smallest elmt in BST
+	 * 
+	 * @param root
+	 * @param K
+	 * @return
+	 */
 	public BinaryTree getKthSmallestElmt(BinaryTree root, int K) {
 		int s = (root.left == null ? 0 : root.left.size) + 1;
 		if (s == K)
@@ -101,6 +159,7 @@ public class ArrayToBinaryTree {
 			return getKthSmallestElmt(root.right, K - s);
 	}
 
+	//TODO : Find the given sum exists in the path in the tree
 	// public boolean sumpathToElmt(BinaryTree root, int sum) {
 	// if (root != null) {
 	// if (sum == 0 || sumpathToElmt(root.getLeft(), sum - root.data)
