@@ -1,4 +1,4 @@
-package com.code.common;
+package com.code.arrays;
 public class MergeSortedArrays {
 	/**
 	 * Merge two sorted arrays A, B into one sorted array A 

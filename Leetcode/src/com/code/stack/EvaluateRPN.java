@@ -1,4 +1,4 @@
-package com.code.common;
+package com.code.stack;
 import java.util.Stack;
 
 public class EvaluateRPN {

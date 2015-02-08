@@ -1,4 +1,4 @@
-package com.code.common;
+package com.code.dynamicprogramming;
 /**
  * Find all possible paths in a grid DP
  * 

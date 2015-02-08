@@ -1,4 +1,4 @@
-package com.code.common;
+package com.code.strings;
 public class IsPalindrome {
 	/**
 	 * Check if the given number is palindrome or not.

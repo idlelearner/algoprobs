@@ -1,4 +1,4 @@
-package com.code.common;
+package com.code.BinarySearch;
 public class FindMinInRotatedArray {
 
 	public static void main(String[] args) {

@@ -1,9 +1,15 @@
-package com.code.common;
+package com.code.linkedlist;
 
 import java.util.Comparator;
 import java.util.List;
 import java.util.PriorityQueue;
 
+/**
+ * Merge k sorted linked lists.
+ * 
+ * @author thirunavukarasu
+ *
+ */
 public class MergeKSortedLists {
 	public ListNode mergeKLists(List<ListNode> lists) {
 		ListNode head = null, cur = null;
@@ -38,15 +44,5 @@ public class MergeKSortedLists {
 		}
 
 		return head;
-	}
-}
-
-class ListNode {
-	int val;
-	ListNode next;
-
-	ListNode(int x) {
-		val = x;
-		next = null;
 	}
 }

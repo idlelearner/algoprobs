@@ -1,4 +1,4 @@
-package com.code.common;
+package com.code.strings;
 /**
  * https://oj.leetcode.com/problems/longest-palindromic-substring/
  * 

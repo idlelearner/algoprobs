@@ -1,4 +1,4 @@
-package com.code.common;
+package com.code.backtracking;
 /**
  * Print the number of paths in a matrix Backtracking
  * 

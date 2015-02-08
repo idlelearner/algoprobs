@@ -1,4 +1,4 @@
-package com.code.common;
+package com.code.stack;
 
 /**
  * Dynamically resizing stack with getMin in O(1)

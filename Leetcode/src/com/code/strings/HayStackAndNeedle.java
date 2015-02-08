@@ -1,4 +1,4 @@
-package com.code.common;
+package com.code.strings;
 public class HayStackAndNeedle {
 	/**
 	 * Find the given string in search string. Strstr() fn.

@@ -1,4 +1,4 @@
-package com.code.common;
+package com.code.BinarySearch;
 public class FindKthElmtInSortedArray {
 	/**
 	 * Find Kth element in two sorted array.
